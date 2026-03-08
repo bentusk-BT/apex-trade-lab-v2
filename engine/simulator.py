@@ -20,7 +20,7 @@ from typing import Dict, List, Optional
 import numpy as np
 import pandas as pd
 
-from strategies import AggregatedSignal, StrategySignal, Direction
+from engine.strategies import AggregatedSignal, StrategySignal, Direction
 
 logger = logging.getLogger(__name__)
 
