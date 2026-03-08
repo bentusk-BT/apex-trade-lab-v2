@@ -1,0 +1,18 @@
+{
+  "date": "2026-03-06",
+  "generated_utc": "2026-03-08T07:37:50.494129",
+  "regime": "STRONG UPTREND",
+  "tqqq_pct": 8.0,
+  "sqqq_pct": 0,
+  "cash_pct": 92.0,
+  "active_strategies": [
+    "MR Long 2 (Deep Pullback)"
+  ],
+  "reason": "MR Long 2 (Deep Pullback): MR Long 2: recovering below middle BB, ext=-1.2%",
+  "ndx_close": 24643.02,
+  "ndx_vs_sma20_pct": -1.23,
+  "ndx_vs_sma250_pct": 5.99,
+  "rsi": 43.0,
+  "equity": 96178.18,
+  "action": "Light long TQQQ (8%)"
+}
