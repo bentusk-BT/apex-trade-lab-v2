@@ -122,12 +122,12 @@ stress_tests:
 branding:
   name: "APEX TRADE LAB"
   tagline: "Systematic Trading Research Platform"
-  site_url: ""
-  vip_password_hash: ""
-  stripe_payment_url: ""
-  beehiiv_subscribe_url: ""
-  formspree_endpoint: ""
-  contact_email: ""
+  site_url: "https://bentusk-bt.github.io/apex-trade-lab-v2/outputs/index.html"
+  vip_password_hash: "0246ce43797cb5e8a2948005dd64f5e409e831b59195686643e928769a9f6639"
+  stripe_payment_url: "https://buy.stripe.com/6oU4gsfyhcVpfxLgOx4ow00"
+  beehiiv_subscribe_url: "https://ben-bt.beehiiv.com/"
+  formspree_endpoint: "https://formspree.io/f/xvzwgwjw"
+  contact_email: "ben.tusk@gmail.com"
   affiliates:
     - name: "Stake"
       url: ""
