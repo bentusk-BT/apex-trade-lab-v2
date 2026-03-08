@@ -127,7 +127,7 @@ nav{gap:1px}nav button{padding:6px 8px;font-size:11px}
 <header>
     <div class="logo">&#9889; APEX TRADE LAB</div>
     <div class="tagline">Systematic Trading Research Platform</div>
-    <div class="live-badge"><span class="dot"></span> Paper Trading &bull; 2026-03-08 07:58 UTC</div>
+    <div class="live-badge"><span class="dot"></span> Paper Trading &bull; 2026-03-08 10:31 UTC</div>
 </header>
 
 <nav>
@@ -426,9 +426,9 @@ Full dashboard: [link in bio]
 <div class="fg" style="max-width:180px"><label>Answer</label><input type="number" id="ma1"></div>
 <button class="btn-s" onclick="cm(1)">Verify</button><div id="me1" class="bear" style="font-size:12px"></div></div>
 <div id="sf1" style="display:none">
-<p class="desc">Newsletter launching soon.</p>
+<a href="https://ben-bt.beehiiv.com/" target="_blank" rel="noopener" class="btn" style="display:inline-block;text-decoration:none;margin-top:8px">Open Newsletter Signup &rarr;</a>
 </div></div>
-
+<div class="card"><h2>Support This Project</h2><p class="desc">If the research is useful, consider a small contribution. 100% goes toward keeping the platform running.</p><div style="text-align:center;padding:12px"><a href="https://buy.stripe.com/6oU4gsfyhcVpfxLgOx4ow00" target="_blank" rel="noopener" class="btn" style="display:inline-block;text-decoration:none">&#9889; Support ($5) via Stripe</a></div></div>
 </div>
 
 <!-- ===== VIP ===== -->
@@ -453,12 +453,20 @@ Full dashboard: [link in bio]
 <div class="card-inner" style="border-top:3px solid #f59e0b"><h3>Backtest Report</h3><p>Send your trading rules and receive a comprehensive backtest including performance metrics, equity curve, regime analysis, and risk assessment.</p></div>
 <div class="card-inner" style="border-top:3px solid #7c3aed"><h3>Advertising &amp; Collaboration</h3><p>Feature your product on this dashboard or collaborate on systematic trading research projects.</p></div></div></div>
 <div class="card"><h2>Contact</h2>
-
+<p class="desc">Email: <a href="mailto:ben.tusk@gmail.com">ben.tusk@gmail.com</a></p>
 <div id="mg2" class="math-gate"><p><strong>Verify you are human:</strong></p><div id="mq2" class="mq"></div>
 <div class="fg" style="max-width:180px"><label>Answer</label><input type="number" id="ma2"></div>
 <button class="btn-s" onclick="cm(2)">Verify</button><div id="me2" class="bear" style="font-size:12px"></div></div>
 <div id="sf2" style="display:none">
-<p class="desc">Contact form coming soon.</p>
+<form action="https://formspree.io/f/xvzwgwjw" method="POST" style="max-width:500px">
+    <div class="fg"><label>I am a...</label><select name="user_type"><option>Individual Investor</option><option>Institutional Investor</option><option>Trading Beginner</option><option>Quant / Developer</option><option>Content Creator</option></select></div>
+    <div class="fg"><label>What interests you most?</label><select name="interest"><option>Daily Signals</option><option>Strategy Research</option><option>Learning Systematic Trading</option><option>Backtesting Tools</option><option>Collaboration Opportunities</option></select></div>
+    <div class="fg"><label>Inquiry Type</label><select name="service"><option>Custom Strategy Dashboard</option><option>Backtest Report</option><option>Advertising &amp; Collaboration</option><option>General Question</option></select></div>
+    <div class="fg"><label>Name</label><input type="text" name="name" required></div>
+    <div class="fg"><label>Email</label><input type="email" name="email" required></div>
+    <div class="fg"><label>Message</label><textarea name="message" rows="3" style="width:100%;padding:6px;border:1px solid #d1d5db;border-radius:6px;font-size:13px;resize:vertical"></textarea></div>
+    <input type="text" name="_gotcha" style="display:none">
+    <button type="submit" class="btn">Send Message</button></form>
 </div></div>
 
 </div>
@@ -480,7 +488,7 @@ window.addEventListener('load',()=>{gm('mq1',0);gm('mq2',1)});
 function cm(n){const a=+document.getElementById('ma'+n).value;if(a===mv[(n-1)*2]+mv[(n-1)*2+1]){document.getElementById('mg'+n).style.display='none';document.getElementById('sf'+n).style.display='block'}else{document.getElementById('me'+n).textContent='Incorrect. Try again.';gm('mq'+n,n-1)}}
 
 // VIP
-const VH='';
+const VH='0246ce43797cb5e8a2948005dd64f5e409e831b59195686643e928769a9f6639';
 async function checkVIP(){const pw=document.getElementById('vip-pw').value;if(!VH){document.getElementById('vip-err').textContent='VIP not configured.';return}const h=Array.from(new Uint8Array(await crypto.subtle.digest('SHA-256',new TextEncoder().encode(pw)))).map(b=>b.toString(16).padStart(2,'0')).join('');if(h===VH){document.getElementById('vip-gate').style.display='none';document.getElementById('vip-c').style.display='block'}else{document.getElementById('vip-err').textContent='Incorrect.'}}
 
 // Regime strip
