@@ -127,7 +127,7 @@ nav{gap:1px}nav button{padding:6px 8px;font-size:11px}
 <header>
     <div class="logo">&#9889; APEX TRADE LAB</div>
     <div class="tagline">Systematic Trading Research Platform</div>
-    <div class="live-badge"><span class="dot"></span> Paper Trading &bull; 2026-03-08 07:56 UTC</div>
+    <div class="live-badge"><span class="dot"></span> Paper Trading &bull; 2026-03-08 07:58 UTC</div>
 </header>
 
 <nav>
@@ -323,7 +323,7 @@ Full dashboard: [link in bio]
 <div class="card"><h2>Stress Test Results</h2>
 <p class="desc">How would this system have performed during the worst market crashes in history?<br>
 <em>Leveraged ETFs can experience extreme losses during bear markets. If TQQQ existed during the Dot-com crash, $100,000 could have fallen to nearly $100. The system's regime detection aims to avoid the worst of these drawdowns by switching to SQQQ.</em></p>
-<p class="desc">No stress test data yet. Run <code>python main.py --stress-test</code> to generate.</p>
+<div class="tbl-wrap"><table><thead><tr><th>Scenario</th><th>Period</th><th>NDX</th><th>TQQQ (est.)</th><th>System (est.)</th><th>Max DD</th><th>Recovery</th></tr></thead><tbody><tr><td><strong>Dot-com Crash</strong></td><td>2000-03-01 to 2002-10-01</td><td class="bear">-80.7%</td><td class="bear">-99.9%</td><td class="bull">+38.8%</td><td class="bear">-82.3%</td><td>999d</td></tr><tr><td><strong>Global Financial Crisis</strong></td><td>2007-10-01 to 2009-03-31</td><td class="bear">-42.3%</td><td class="bear">-90.6%</td><td class="bull">+23.7%</td><td class="bear">-65.0%</td><td>999d</td></tr><tr><td><strong>COVID Crash</strong></td><td>2020-02-01 to 2020-06-01</td><td class="bear">+4.7%</td><td class="bear">-15.2%</td><td class="bear">-51.0%</td><td class="bear">-70.5%</td><td>999d</td></tr><tr><td><strong>2022 Bear Market</strong></td><td>2022-01-01 to 2022-12-31</td><td class="bear">-33.7%</td><td class="bear">-78.8%</td><td class="bull">+82.5%</td><td class="bear">-49.9%</td><td>999d</td></tr></tbody></table></div>
 <p class="desc" style="margin-top:12px"><strong>Note:</strong> Stress tests use synthetic 3x daily returns derived from NDX. Actual TQQQ performance would likely be worse due to volatility decay and expense ratios. Run <code>python main.py --stress-test</code> to generate fresh results.</p>
 </div></div>
 

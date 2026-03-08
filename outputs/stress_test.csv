@@ -1,0 +1,5 @@
+name,start,end,trading_days,ndx_return_pct,tqqq_estimated_pct,tqqq_max_dd_pct,system_estimated_pct,max_drawdown_pct,recovery_days,note
+Dot-com Crash,2000-03-01,2002-10-01,647,-80.7,-99.9,-99.9,38.8,-82.3,999,Synthetic 3x returns. Actual TQQQ decay would be worse.
+Global Financial Crisis,2007-10-01,2009-03-31,376,-42.3,-90.6,-94.8,23.7,-65.0,999,Synthetic 3x returns. Actual TQQQ decay would be worse.
+COVID Crash,2020-02-01,2020-06-01,81,4.7,-15.2,-69.8,-51.0,-70.5,999,Synthetic 3x returns. Actual TQQQ decay would be worse.
+2022 Bear Market,2022-01-01,2022-12-31,250,-33.7,-78.8,-79.4,82.5,-49.9,999,Synthetic 3x returns. Actual TQQQ decay would be worse.
