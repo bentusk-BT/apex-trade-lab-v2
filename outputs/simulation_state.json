@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-03-11T22:02:18.895199",
+  "last_updated": "2026-03-12T22:02:14.850540",
   "cash": 77153.2270820085,
   "starting_capital": 100000,
-  "total_equity": 97264.5734809271,
+  "total_equity": 97244.21662538373,
   "positions": {
     "TQQQ": {
       "shares": 407.11226270677304,
       "avg_price": 47.40436583982184,
-      "current_price": 49.400001525878906,
+      "current_price": 49.349998474121094,
       "entry_date": "2025-12-31"
     }
   },
@@ -904,6 +904,25 @@
       "regime": "STRONG UPTREND",
       "active_strategies": "Momentum Long, MR Long 1 (SMA20 Pullback)",
       "strategy_details": "Momentum Long: Momentum: holding above SMA20, reduced size; MR Long 1 (SMA20 Pullback): MR Long 1: pullback to SMA20, ext=0.1%"
+    },
+    {
+      "date": "2026-03-11",
+      "equity": 97244.22,
+      "cash": 77153.23,
+      "tqqq_value": 20090.99,
+      "sqqq_value": 0.0,
+      "tqqq_alloc": 19.5,
+      "sqqq_alloc": 0,
+      "cash_alloc": 80.5,
+      "ndx_close": 24965.01,
+      "sma20": 24920.0,
+      "sma250": 23315.97,
+      "ext_sma20": 0.18,
+      "ext_sma250": 7.07,
+      "rsi": 48.7,
+      "regime": "STRONG UPTREND",
+      "active_strategies": "Momentum Long, MR Long 1 (SMA20 Pullback)",
+      "strategy_details": "Momentum Long: Momentum: holding above SMA20, reduced size; MR Long 1 (SMA20 Pullback): MR Long 1: pullback to SMA20, ext=0.2%"
     }
   ],
   "trade_log": [
@@ -2065,6 +2084,19 @@
       "rsi": 48.6,
       "active_strategies": "Momentum Long, MR Long 1 (SMA20 Pullback)",
       "strategy_details": "Momentum Long: Momentum: holding above SMA20, reduced size; MR Long 1 (SMA20 Pullback): MR Long 1: pullback to SMA20, ext=0.1%"
+    },
+    {
+      "date": "2026-03-11",
+      "tqqq_weight": 0.195,
+      "sqqq_weight": 0,
+      "cash_weight": 0.805,
+      "regime": "STRONG UPTREND",
+      "ndx_close": 24965.01,
+      "ext_sma20": 0.18,
+      "ext_sma250": 7.07,
+      "rsi": 48.7,
+      "active_strategies": "Momentum Long, MR Long 1 (SMA20 Pullback)",
+      "strategy_details": "Momentum Long: Momentum: holding above SMA20, reduced size; MR Long 1 (SMA20 Pullback): MR Long 1: pullback to SMA20, ext=0.2%"
     }
   ],
   "regime_history": [
