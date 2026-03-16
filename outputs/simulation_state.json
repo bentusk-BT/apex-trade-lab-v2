@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-03-13T22:03:20.955209",
+  "last_updated": "2026-03-16T22:57:56.522573",
   "cash": 89048.41831730744,
   "starting_capital": 100000,
-  "total_equity": 96745.88192450836,
+  "total_equity": 96394.65622595965,
   "positions": {
     "TQQQ": {
       "shares": 159.94421641282617,
       "avg_price": 47.40436583982184,
-      "current_price": 48.12592652511597,
+      "current_price": 45.93000030517578,
       "entry_date": "2025-12-31"
     }
   },
@@ -942,6 +942,25 @@
       "regime": "STRONG UPTREND",
       "active_strategies": "MR Long 2 (Deep Pullback)",
       "strategy_details": "MR Long 2 (Deep Pullback): MR Long 2: recovering below middle BB, ext=-1.4%"
+    },
+    {
+      "date": "2026-03-13",
+      "equity": 96394.66,
+      "cash": 89048.42,
+      "tqqq_value": 7346.24,
+      "sqqq_value": 0.0,
+      "tqqq_alloc": 12.0,
+      "sqqq_alloc": 0,
+      "cash_alloc": 88.0,
+      "ndx_close": 24380.73,
+      "sma20": 24871.27,
+      "sma250": 23355.91,
+      "ext_sma20": -1.97,
+      "ext_sma250": 4.39,
+      "rsi": 39.7,
+      "regime": "UPTREND",
+      "active_strategies": "MR Long 2 (Deep Pullback)",
+      "strategy_details": "MR Long 2 (Deep Pullback): MR Long 2: deep pullback below lower BB, ext=-2.0%"
     }
   ],
   "trade_log": [
@@ -2150,6 +2169,19 @@
       "rsi": 41.8,
       "active_strategies": "MR Long 2 (Deep Pullback)",
       "strategy_details": "MR Long 2 (Deep Pullback): MR Long 2: recovering below middle BB, ext=-1.4%"
+    },
+    {
+      "date": "2026-03-13",
+      "tqqq_weight": 0.12,
+      "sqqq_weight": 0,
+      "cash_weight": 0.88,
+      "regime": "UPTREND",
+      "ndx_close": 24380.73,
+      "ext_sma20": -1.97,
+      "ext_sma250": 4.39,
+      "rsi": 39.7,
+      "active_strategies": "MR Long 2 (Deep Pullback)",
+      "strategy_details": "MR Long 2 (Deep Pullback): MR Long 2: deep pullback below lower BB, ext=-2.0%"
     }
   ],
   "regime_history": [
@@ -2158,6 +2190,12 @@
       "regime": "STRONG UPTREND",
       "ndx_close": 25249.85,
       "ext_sma250": 11.93
+    },
+    {
+      "date": "2026-03-13",
+      "regime": "UPTREND",
+      "ndx_close": 24380.73,
+      "ext_sma250": 4.39
     }
   ]
 }
