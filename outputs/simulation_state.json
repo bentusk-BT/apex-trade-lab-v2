@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-03-26T22:00:51.311018",
-  "cash": 81358.65369085228,
+  "last_updated": "2026-03-27T23:03:10.948358",
+  "cash": 73729.35289116681,
   "starting_capital": 100000,
-  "total_equity": 96454.43697715703,
+  "total_equity": 96067.30448802236,
   "positions": {
     "TQQQ": {
-      "shares": 340.07171646470044,
-      "avg_price": 44.92157828134548,
-      "current_price": 44.38999938964844,
+      "shares": 516.4651501080998,
+      "avg_price": 44.351219104196446,
+      "current_price": 43.251614542007445,
       "entry_date": "2025-12-31"
     }
   },
@@ -1113,6 +1113,25 @@
       "regime": "UPTREND",
       "active_strategies": "MR Long 2 (Deep Pullback), MR Long 3 (SMA250 Bounce)",
       "strategy_details": "MR Long 2 (Deep Pullback): MR Long 2: recovering below middle BB, ext=-1.9%; MR Long 3 (SMA250 Bounce): MR Long 3: near SMA250 but no reversal candle"
+    },
+    {
+      "date": "2026-03-26",
+      "equity": 96067.3,
+      "cash": 73729.35,
+      "tqqq_value": 22337.95,
+      "sqqq_value": 0.0,
+      "tqqq_alloc": 23.4,
+      "sqqq_alloc": 0,
+      "cash_alloc": 76.6,
+      "ndx_close": 23586.99,
+      "sma20": 24564.41,
+      "sma250": 23513.54,
+      "ext_sma20": -3.98,
+      "ext_sma250": 0.31,
+      "rsi": 34.8,
+      "regime": "UPTREND",
+      "active_strategies": "MR Long 2 (Deep Pullback), MR Long 3 (SMA250 Bounce)",
+      "strategy_details": "MR Long 2 (Deep Pullback): MR Long 2: deep pullback below lower BB, ext=-4.0%; MR Long 3 (SMA250 Bounce): MR Long 3: near SMA250 but no reversal candle"
     }
   ],
   "trade_log": [
@@ -1807,6 +1826,27 @@
       "ndx_vs_sma20": "-2.8%",
       "ndx_vs_sma250": "+2.2%",
       "rsi": 38.5,
+      "execution_timing": "D+1 open (decision 10min before close)"
+    },
+    {
+      "date": "2026-03-26",
+      "ticker": "TQQQ",
+      "action": "BUY",
+      "trade_type": "ADD",
+      "shares": 176.3934,
+      "price": 43.25,
+      "value": 7629.3,
+      "realized_pnl": 0.0,
+      "equity_after": 96067.3,
+      "allocation_after_pct": 23.3,
+      "hold_days": 0,
+      "strategy": "Momentum Long (EXIT) + MR Long 2 (Deep Pullback) + MR Long 3 (SMA250 Bounce)",
+      "reasoning": "Momentum: closed below SMA20 | MR Long 2: deep pullback below lower BB, ext=-4.0% | MR Long 3: near SMA250 but no reversal candle",
+      "regime": "UPTREND",
+      "ndx_close": 23586.99,
+      "ndx_vs_sma20": "-4.0%",
+      "ndx_vs_sma250": "+0.3%",
+      "rsi": 34.8,
       "execution_timing": "D+1 open (decision 10min before close)"
     }
   ],
@@ -2564,6 +2604,19 @@
       "rsi": 41.7,
       "active_strategies": "MR Long 2 (Deep Pullback), MR Long 3 (SMA250 Bounce)",
       "strategy_details": "MR Long 2 (Deep Pullback): MR Long 2: recovering below middle BB, ext=-1.9%; MR Long 3 (SMA250 Bounce): MR Long 3: near SMA250 but no reversal candle"
+    },
+    {
+      "date": "2026-03-26",
+      "tqqq_weight": 0.2342,
+      "sqqq_weight": 0,
+      "cash_weight": 0.7658,
+      "regime": "UPTREND",
+      "ndx_close": 23586.99,
+      "ext_sma20": -3.98,
+      "ext_sma250": 0.31,
+      "rsi": 34.8,
+      "active_strategies": "MR Long 2 (Deep Pullback), MR Long 3 (SMA250 Bounce)",
+      "strategy_details": "MR Long 2 (Deep Pullback): MR Long 2: deep pullback below lower BB, ext=-4.0%; MR Long 3 (SMA250 Bounce): MR Long 3: near SMA250 but no reversal candle"
     }
   ],
   "regime_history": [
