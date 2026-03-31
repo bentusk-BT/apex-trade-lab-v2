@@ -1,6 +1,6 @@
 {
-  "date": "2026-03-27",
-  "generated_utc": "2026-03-30T23:07:14.981182",
+  "date": "2026-03-30",
+  "generated_utc": "2026-03-31T23:02:22.576375",
   "regime": "DOWNTREND",
   "tqqq_pct": 0.0,
   "sqqq_pct": 0.0,
@@ -9,11 +9,11 @@
     "MR Long 3 (SMA250 Bounce)",
     "Momentum Short 1 (Breakdown)"
   ],
-  "reason": "MR Long 3 (SMA250 Bounce): MR Long 3: near SMA250 but no reversal candle; Momentum Short 1 (Breakdown): Mom Short 1: breakdown below SMA250 + lower BB, ext250=-1.7%",
-  "ndx_close": 23132.77,
-  "ndx_vs_sma20_pct": -5.48,
-  "ndx_vs_sma250_pct": -1.68,
-  "rsi": 30.5,
+  "reason": "MR Long 3 (SMA250 Bounce): MR Long 3: near SMA250 but no reversal candle; Momentum Short 1 (Breakdown): Mom Short 1: breakdown below SMA250 + lower BB, ext250=-2.5%",
+  "ndx_close": 22953.38,
+  "ndx_vs_sma20_pct": -5.82,
+  "ndx_vs_sma250_pct": -2.51,
+  "rsi": 29.0,
   "equity": 94666.71,
   "action": "CASH \u2014 no position"
 }

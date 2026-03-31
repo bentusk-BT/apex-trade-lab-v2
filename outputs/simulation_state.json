@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-30T23:07:15.009735",
+  "last_updated": "2026-03-31T23:02:22.599449",
   "cash": 94666.70617520946,
   "starting_capital": 100000,
   "total_equity": 94666.70617520946,
@@ -1144,6 +1144,25 @@
       "regime": "DOWNTREND",
       "active_strategies": "MR Long 3 (SMA250 Bounce), Momentum Short 1 (Breakdown)",
       "strategy_details": "MR Long 3 (SMA250 Bounce): MR Long 3: near SMA250 but no reversal candle; Momentum Short 1 (Breakdown): Mom Short 1: breakdown below SMA250 + lower BB, ext250=-1.7%"
+    },
+    {
+      "date": "2026-03-30",
+      "equity": 94666.71,
+      "cash": 94666.71,
+      "tqqq_value": 0.0,
+      "sqqq_value": 0.0,
+      "tqqq_alloc": 0.0,
+      "sqqq_alloc": 0.0,
+      "cash_alloc": 100.0,
+      "ndx_close": 22953.38,
+      "sma20": 24371.08,
+      "sma250": 23543.65,
+      "ext_sma20": -5.82,
+      "ext_sma250": -2.51,
+      "rsi": 29.0,
+      "regime": "DOWNTREND",
+      "active_strategies": "MR Long 3 (SMA250 Bounce), Momentum Short 1 (Breakdown)",
+      "strategy_details": "MR Long 3 (SMA250 Bounce): MR Long 3: near SMA250 but no reversal candle; Momentum Short 1 (Breakdown): Mom Short 1: breakdown below SMA250 + lower BB, ext250=-2.5%"
     }
   ],
   "trade_log": [
@@ -2663,6 +2682,19 @@
       "rsi": 30.5,
       "active_strategies": "MR Long 3 (SMA250 Bounce), Momentum Short 1 (Breakdown)",
       "strategy_details": "MR Long 3 (SMA250 Bounce): MR Long 3: near SMA250 but no reversal candle; Momentum Short 1 (Breakdown): Mom Short 1: breakdown below SMA250 + lower BB, ext250=-1.7%"
+    },
+    {
+      "date": "2026-03-30",
+      "tqqq_weight": 0.0,
+      "sqqq_weight": 0.0,
+      "cash_weight": 1.0,
+      "regime": "DOWNTREND",
+      "ndx_close": 22953.38,
+      "ext_sma20": -5.82,
+      "ext_sma250": -2.51,
+      "rsi": 29.0,
+      "active_strategies": "MR Long 3 (SMA250 Bounce), Momentum Short 1 (Breakdown)",
+      "strategy_details": "MR Long 3 (SMA250 Bounce): MR Long 3: near SMA250 but no reversal candle; Momentum Short 1 (Breakdown): Mom Short 1: breakdown below SMA250 + lower BB, ext250=-2.5%"
     }
   ],
   "regime_history": [
