@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-04-01T23:09:07.616039",
+  "last_updated": "2026-04-02T23:02:54.450168",
   "cash": 72893.36375491129,
   "starting_capital": 100000,
-  "total_equity": 94666.70617520946,
+  "total_equity": 96960.67466809702,
   "positions": {
     "TQQQ": {
       "shares": 556.7270684255185,
       "avg_price": 39.10954515266418,
-      "current_price": 39.10954515266418,
+      "current_price": 43.22999954223633,
       "entry_date": "2026-03-31"
     }
   },
@@ -1189,6 +1189,25 @@
       "regime": "UPTREND",
       "active_strategies": "MR Long 2 (Deep Pullback), MR Long 3 (SMA250 Bounce)",
       "strategy_details": "MR Long 2 (Deep Pullback): MR Long 2: recovering below middle BB, ext=-2.4%; MR Long 3 (SMA250 Bounce): MR Long 3: bounce near SMA250, ext250=0.8%"
+    },
+    {
+      "date": "2026-04-01",
+      "equity": 96960.67,
+      "cash": 72893.36,
+      "tqqq_value": 24067.31,
+      "sqqq_value": 0.0,
+      "tqqq_alloc": 23.0,
+      "sqqq_alloc": 0,
+      "cash_alloc": 77.0,
+      "ndx_close": 24019.99,
+      "sma20": 24268.4,
+      "sma250": 23578.61,
+      "ext_sma20": -1.02,
+      "ext_sma250": 1.87,
+      "rsi": 46.4,
+      "regime": "UPTREND",
+      "active_strategies": "MR Long 2 (Deep Pullback), MR Long 3 (SMA250 Bounce)",
+      "strategy_details": "MR Long 2 (Deep Pullback): MR Long 2: recovering below middle BB, ext=-1.0%; MR Long 3 (SMA250 Bounce): MR Long 3: bounce near SMA250, ext250=1.9%"
     }
   ],
   "trade_log": [
@@ -2755,6 +2774,19 @@
       "rsi": 42.5,
       "active_strategies": "MR Long 2 (Deep Pullback), MR Long 3 (SMA250 Bounce)",
       "strategy_details": "MR Long 2 (Deep Pullback): MR Long 2: recovering below middle BB, ext=-2.4%; MR Long 3 (SMA250 Bounce): MR Long 3: bounce near SMA250, ext250=0.8%"
+    },
+    {
+      "date": "2026-04-01",
+      "tqqq_weight": 0.23,
+      "sqqq_weight": 0,
+      "cash_weight": 0.77,
+      "regime": "UPTREND",
+      "ndx_close": 24019.99,
+      "ext_sma20": -1.02,
+      "ext_sma250": 1.87,
+      "rsi": 46.4,
+      "active_strategies": "MR Long 2 (Deep Pullback), MR Long 3 (SMA250 Bounce)",
+      "strategy_details": "MR Long 2 (Deep Pullback): MR Long 2: recovering below middle BB, ext=-1.0%; MR Long 3 (SMA250 Bounce): MR Long 3: bounce near SMA250, ext250=1.9%"
     }
   ],
   "regime_history": [
