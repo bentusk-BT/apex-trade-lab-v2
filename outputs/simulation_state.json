@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-04-07T23:25:09.033173",
+  "last_updated": "2026-04-08T22:05:38.721805",
   "cash": 63598.630652453445,
   "starting_capital": 100000,
-  "total_equity": 98800.20276392333,
+  "total_equity": 99262.0935037334,
   "positions": {
     "TQQQ": {
       "shares": 807.779425112262,
       "avg_price": 40.04921549239144,
-      "current_price": 43.57819847488403,
+      "current_price": 44.150001525878906,
       "entry_date": "2026-03-31"
     }
   },
@@ -1246,6 +1246,25 @@
       "regime": "UPTREND",
       "active_strategies": "MR Long 1 (SMA20 Pullback), MR Long 3 (SMA250 Bounce)",
       "strategy_details": "MR Long 1 (SMA20 Pullback): MR Long 1: pullback to SMA20, ext=-0.0%; MR Long 3 (SMA250 Bounce): MR Long 3: bounce near SMA250, ext250=2.4%"
+    },
+    {
+      "date": "2026-04-07",
+      "equity": 99262.09,
+      "cash": 63598.63,
+      "tqqq_value": 35663.46,
+      "sqqq_value": 0.0,
+      "tqqq_alloc": 34.5,
+      "sqqq_alloc": 0,
+      "cash_alloc": 65.5,
+      "ndx_close": 24202.37,
+      "sma20": 24158.87,
+      "sma250": 23654.97,
+      "ext_sma20": 0.18,
+      "ext_sma250": 2.31,
+      "rsi": 49.0,
+      "regime": "UPTREND",
+      "active_strategies": "Momentum Long, MR Long 1 (SMA20 Pullback), MR Long 3 (SMA250 Bounce)",
+      "strategy_details": "Momentum Long: Momentum: holding above SMA20, reduced size; MR Long 1 (SMA20 Pullback): MR Long 1: pullback to SMA20, ext=0.2%; MR Long 3 (SMA250 Bounce): MR Long 3: bounce near SMA250, ext250=2.3%"
     }
   ],
   "trade_log": [
@@ -2893,6 +2912,19 @@
       "rsi": 48.9,
       "active_strategies": "MR Long 1 (SMA20 Pullback), MR Long 3 (SMA250 Bounce)",
       "strategy_details": "MR Long 1 (SMA20 Pullback): MR Long 1: pullback to SMA20, ext=-0.0%; MR Long 3 (SMA250 Bounce): MR Long 3: bounce near SMA250, ext250=2.4%"
+    },
+    {
+      "date": "2026-04-07",
+      "tqqq_weight": 0.345,
+      "sqqq_weight": 0,
+      "cash_weight": 0.655,
+      "regime": "UPTREND",
+      "ndx_close": 24202.37,
+      "ext_sma20": 0.18,
+      "ext_sma250": 2.31,
+      "rsi": 49.0,
+      "active_strategies": "Momentum Long, MR Long 1 (SMA20 Pullback), MR Long 3 (SMA250 Bounce)",
+      "strategy_details": "Momentum Long: Momentum: holding above SMA20, reduced size; MR Long 1 (SMA20 Pullback): MR Long 1: pullback to SMA20, ext=0.2%; MR Long 3 (SMA250 Bounce): MR Long 3: bounce near SMA250, ext250=2.3%"
     }
   ],
   "regime_history": [
