@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-04-08T22:05:38.721805",
-  "cash": 63598.630652453445,
+  "last_updated": "2026-04-09T22:04:05.098373",
+  "cash": 95191.47297217406,
   "starting_capital": 100000,
-  "total_equity": 99262.0935037334,
+  "total_equity": 102869.3762015122,
   "positions": {
     "TQQQ": {
-      "shares": 807.779425112262,
+      "shares": 157.9305961715056,
       "avg_price": 40.04921549239144,
-      "current_price": 44.150001525878906,
+      "current_price": 48.61567938995361,
       "entry_date": "2026-03-31"
     }
   },
@@ -1265,6 +1265,25 @@
       "regime": "UPTREND",
       "active_strategies": "Momentum Long, MR Long 1 (SMA20 Pullback), MR Long 3 (SMA250 Bounce)",
       "strategy_details": "Momentum Long: Momentum: holding above SMA20, reduced size; MR Long 1 (SMA20 Pullback): MR Long 1: pullback to SMA20, ext=0.2%; MR Long 3 (SMA250 Bounce): MR Long 3: bounce near SMA250, ext250=2.3%"
+    },
+    {
+      "date": "2026-04-08",
+      "equity": 102869.38,
+      "cash": 95191.47,
+      "tqqq_value": 7677.9,
+      "sqqq_value": 0.0,
+      "tqqq_alloc": 7.5,
+      "sqqq_alloc": 0,
+      "cash_alloc": 92.5,
+      "ndx_close": 24903.17,
+      "sma20": 24156.21,
+      "sma250": 23686.23,
+      "ext_sma20": 3.09,
+      "ext_sma250": 5.14,
+      "rsi": 58.1,
+      "regime": "STRONG UPTREND",
+      "active_strategies": "Momentum Long",
+      "strategy_details": "Momentum Long: Momentum: holding above SMA20, reduced size"
     }
   ],
   "trade_log": [
@@ -2064,6 +2083,27 @@
       "ndx_vs_sma20": "-0.0%",
       "ndx_vs_sma250": "+2.4%",
       "rsi": 48.9,
+      "execution_timing": "D+1 open (decision 10min before close)"
+    },
+    {
+      "date": "2026-04-08",
+      "ticker": "TQQQ",
+      "action": "SELL",
+      "trade_type": "REDUCE",
+      "shares": 649.8488,
+      "price": 48.62,
+      "value": 31592.84,
+      "realized_pnl": 5566.91,
+      "equity_after": 102869.38,
+      "allocation_after_pct": 7.5,
+      "hold_days": 0,
+      "strategy": "Momentum Long + MR Long 1 (SMA20 Pullback) (EXIT)",
+      "reasoning": "Momentum: holding above SMA20, reduced size | MR Long 1: extended 3.1% above SMA20, exit",
+      "regime": "STRONG UPTREND",
+      "ndx_close": 24903.17,
+      "ndx_vs_sma20": "+3.1%",
+      "ndx_vs_sma250": "+5.1%",
+      "rsi": 58.1,
       "execution_timing": "D+1 open (decision 10min before close)"
     }
   ],
@@ -2925,6 +2965,19 @@
       "rsi": 49.0,
       "active_strategies": "Momentum Long, MR Long 1 (SMA20 Pullback), MR Long 3 (SMA250 Bounce)",
       "strategy_details": "Momentum Long: Momentum: holding above SMA20, reduced size; MR Long 1 (SMA20 Pullback): MR Long 1: pullback to SMA20, ext=0.2%; MR Long 3 (SMA250 Bounce): MR Long 3: bounce near SMA250, ext250=2.3%"
+    },
+    {
+      "date": "2026-04-08",
+      "tqqq_weight": 0.075,
+      "sqqq_weight": 0,
+      "cash_weight": 0.925,
+      "regime": "STRONG UPTREND",
+      "ndx_close": 24903.17,
+      "ext_sma20": 3.09,
+      "ext_sma250": 5.14,
+      "rsi": 58.1,
+      "active_strategies": "Momentum Long",
+      "strategy_details": "Momentum Long: Momentum: holding above SMA20, reduced size"
     }
   ],
   "regime_history": [
@@ -2963,6 +3016,12 @@
       "regime": "UPTREND",
       "ndx_close": 23740.19,
       "ext_sma250": 0.76
+    },
+    {
+      "date": "2026-04-08",
+      "regime": "STRONG UPTREND",
+      "ndx_close": 24903.17,
+      "ext_sma250": 5.14
     }
   ]
 }
