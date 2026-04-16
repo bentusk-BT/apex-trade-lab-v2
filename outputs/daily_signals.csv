@@ -70,3 +70,4 @@ date,tqqq_weight,sqqq_weight,cash_weight,regime,ndx_close,ext_sma20,ext_sma250,r
 2026-04-10,0.075,0.0,0.925,STRONG UPTREND,25116.34,3.82,5.81,60.5,Momentum Long,"Momentum Long: Momentum: holding above SMA20, reduced size"
 2026-04-13,0.035,0.0,0.965,STRONG UPTREND,25383.72,4.71,6.82,63.4,"Momentum Long, MR Short (Overextension)","Momentum Long: Momentum: holding above SMA20, reduced size; MR Short (Overextension): MR Short: overextended 4.7% but not above upper BB"
 2026-04-14,0.17,0.0,0.83,STRONG UPTREND,25842.0,6.34,8.62,67.8,"Momentum Long, MR Short (Overextension)","Momentum Long: Momentum: NDX above upper BB, BB_width=11.9%; MR Short (Overextension): MR Short: overextended 6.3% above SMA20 + above upper BB"
+2026-04-15,0.17,0.0,0.83,STRONG UPTREND,26204.58,7.52,10.0,70.8,"Momentum Long, MR Short (Overextension)","Momentum Long: Momentum: NDX above upper BB, BB_width=13.7%; MR Short (Overextension): MR Short: overextended 7.5% above SMA20 + above upper BB"

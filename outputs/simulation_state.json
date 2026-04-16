@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-04-15T22:08:14.814269",
+  "last_updated": "2026-04-16T22:05:13.113466",
   "cash": 85695.07140442368,
   "starting_capital": 100000,
-  "total_equity": 103311.58423965499,
+  "total_equity": 104762.38106161822,
   "positions": {
     "TQQQ": {
       "shares": 342.6290949574846,
       "avg_price": 46.176458098598054,
-      "current_price": 51.41569438934326,
+      "current_price": 55.650001525878906,
       "entry_date": "2026-03-31"
     }
   },
@@ -1360,6 +1360,25 @@
       "regime": "STRONG UPTREND",
       "active_strategies": "Momentum Long, MR Short (Overextension)",
       "strategy_details": "Momentum Long: Momentum: NDX above upper BB, BB_width=11.9%; MR Short (Overextension): MR Short: overextended 6.3% above SMA20 + above upper BB"
+    },
+    {
+      "date": "2026-04-15",
+      "equity": 104762.38,
+      "cash": 85695.07,
+      "tqqq_value": 19067.31,
+      "sqqq_value": 0.0,
+      "tqqq_alloc": 17.0,
+      "sqqq_alloc": 0.0,
+      "cash_alloc": 83.0,
+      "ndx_close": 26204.58,
+      "sma20": 24371.89,
+      "sma250": 23821.52,
+      "ext_sma20": 7.52,
+      "ext_sma250": 10.0,
+      "rsi": 70.8,
+      "regime": "STRONG UPTREND",
+      "active_strategies": "Momentum Long, MR Short (Overextension)",
+      "strategy_details": "Momentum Long: Momentum: NDX above upper BB, BB_width=13.7%; MR Short (Overextension): MR Short: overextended 7.5% above SMA20 + above upper BB"
     }
   ],
   "trade_log": [
@@ -3127,6 +3146,19 @@
       "rsi": 67.8,
       "active_strategies": "Momentum Long, MR Short (Overextension)",
       "strategy_details": "Momentum Long: Momentum: NDX above upper BB, BB_width=11.9%; MR Short (Overextension): MR Short: overextended 6.3% above SMA20 + above upper BB"
+    },
+    {
+      "date": "2026-04-15",
+      "tqqq_weight": 0.17,
+      "sqqq_weight": 0.0,
+      "cash_weight": 0.83,
+      "regime": "STRONG UPTREND",
+      "ndx_close": 26204.58,
+      "ext_sma20": 7.52,
+      "ext_sma250": 10.0,
+      "rsi": 70.8,
+      "active_strategies": "Momentum Long, MR Short (Overextension)",
+      "strategy_details": "Momentum Long: Momentum: NDX above upper BB, BB_width=13.7%; MR Short (Overextension): MR Short: overextended 7.5% above SMA20 + above upper BB"
     }
   ],
   "regime_history": [
