@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-05-05T22:29:26.213944",
+  "last_updated": "2026-05-06T22:12:15.556791",
   "cash": 101241.1898878114,
   "starting_capital": 100000,
-  "total_equity": 105494.36897825438,
+  "total_equity": 105656.8688300132,
   "positions": {
     "TQQQ": {
       "shares": 65.52424665669429,
       "avg_price": 46.176458098598054,
-      "current_price": 64.91000366210938,
+      "current_price": 67.38999938964844,
       "entry_date": "2026-03-31"
     }
   },
@@ -1626,6 +1626,25 @@
       "regime": "STRONG UPTREND",
       "active_strategies": "Momentum Long, MR Short (Overextension)",
       "strategy_details": "Momentum Long: Momentum: holding above SMA20, reduced size; MR Short (Overextension): MR Short: overextended 4.7% but not above upper BB"
+    },
+    {
+      "date": "2026-05-05",
+      "equity": 105656.87,
+      "cash": 101241.19,
+      "tqqq_value": 4415.68,
+      "sqqq_value": 0.0,
+      "tqqq_alloc": 3.5,
+      "sqqq_alloc": 0.0,
+      "cash_alloc": 96.5,
+      "ndx_close": 28015.06,
+      "sma20": 26599.09,
+      "sma250": 24266.79,
+      "ext_sma20": 5.32,
+      "ext_sma250": 15.45,
+      "rsi": 76.2,
+      "regime": "STRONG UPTREND",
+      "active_strategies": "Momentum Long, MR Short (Overextension)",
+      "strategy_details": "Momentum Long: Momentum: holding above SMA20, reduced size; MR Short (Overextension): MR Short: overextended 5.3% but not above upper BB"
     }
   ],
   "trade_log": [
@@ -3596,6 +3615,19 @@
       "rsi": 73.4,
       "active_strategies": "Momentum Long, MR Short (Overextension)",
       "strategy_details": "Momentum Long: Momentum: holding above SMA20, reduced size; MR Short (Overextension): MR Short: overextended 4.7% but not above upper BB"
+    },
+    {
+      "date": "2026-05-05",
+      "tqqq_weight": 0.035,
+      "sqqq_weight": 0.0,
+      "cash_weight": 0.965,
+      "regime": "STRONG UPTREND",
+      "ndx_close": 28015.06,
+      "ext_sma20": 5.32,
+      "ext_sma250": 15.45,
+      "rsi": 76.2,
+      "active_strategies": "Momentum Long, MR Short (Overextension)",
+      "strategy_details": "Momentum Long: Momentum: holding above SMA20, reduced size; MR Short (Overextension): MR Short: overextended 5.3% but not above upper BB"
     }
   ],
   "regime_history": [
