@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-05-26T22:47:00.557094",
+  "last_updated": "2026-05-27T22:55:20.350712",
   "cash": 102882.69290968796,
   "starting_capital": 100000,
-  "total_equity": 106739.1771622125,
+  "total_equity": 106942.80194866398,
   "positions": {
     "TQQQ": {
       "shares": 49.543736304716305,
       "avg_price": 65.80427833412875,
-      "current_price": 77.83999633789062,
+      "current_price": 81.94999694824219,
       "entry_date": "2026-03-31"
     }
   },
@@ -1892,6 +1892,25 @@
       "regime": "STRONG UPTREND",
       "active_strategies": "Momentum Long",
       "strategy_details": "Momentum Long: Momentum: holding above SMA20, reduced size"
+    },
+    {
+      "date": "2026-05-26",
+      "equity": 106942.8,
+      "cash": 102882.69,
+      "tqqq_value": 4060.11,
+      "sqqq_value": 0.0,
+      "tqqq_alloc": 3.5,
+      "sqqq_alloc": 0.0,
+      "cash_alloc": 96.5,
+      "ndx_close": 30001.32,
+      "sma20": 28692.62,
+      "sma250": 24728.1,
+      "ext_sma20": 4.56,
+      "ext_sma250": 21.32,
+      "rsi": 75.0,
+      "regime": "STRONG UPTREND",
+      "active_strategies": "Momentum Long, MR Short (Overextension)",
+      "strategy_details": "Momentum Long: Momentum: holding above SMA20, reduced size; MR Short (Overextension): MR Short: overextended 4.6% but not above upper BB"
     }
   ],
   "trade_log": [
@@ -4086,6 +4105,19 @@
       "rsi": 71.1,
       "active_strategies": "Momentum Long",
       "strategy_details": "Momentum Long: Momentum: holding above SMA20, reduced size"
+    },
+    {
+      "date": "2026-05-26",
+      "tqqq_weight": 0.035,
+      "sqqq_weight": 0.0,
+      "cash_weight": 0.965,
+      "regime": "STRONG UPTREND",
+      "ndx_close": 30001.32,
+      "ext_sma20": 4.56,
+      "ext_sma250": 21.32,
+      "rsi": 75.0,
+      "active_strategies": "Momentum Long, MR Short (Overextension)",
+      "strategy_details": "Momentum Long: Momentum: holding above SMA20, reduced size; MR Short (Overextension): MR Short: overextended 4.6% but not above upper BB"
     }
   ],
   "regime_history": [

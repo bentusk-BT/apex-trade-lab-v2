@@ -98,3 +98,4 @@ date,equity,cash,tqqq_value,sqqq_value,tqqq_alloc,sqqq_alloc,cash_alloc,ndx_clos
 2026-05-20,106673.28,102882.69,3790.59,0.0,7.5,0.0,92.5,29297.7,28320.21,24626.51,3.45,18.97,69.5,STRONG UPTREND,Momentum Long,"Momentum Long: Momentum: holding above SMA20, reduced size"
 2026-05-21,106695.08,102882.69,3812.39,0.0,7.5,0.0,92.5,29357.27,28448.94,24659.49,3.19,19.05,70.0,STRONG UPTREND,Momentum Long,"Momentum Long: Momentum: holding above SMA20, reduced size"
 2026-05-22,106739.18,102882.69,3856.48,0.0,7.5,0.0,92.5,29481.64,28557.84,24693.75,3.23,19.39,71.1,STRONG UPTREND,Momentum Long,"Momentum Long: Momentum: holding above SMA20, reduced size"
+2026-05-26,106942.8,102882.69,4060.11,0.0,3.5,0.0,96.5,30001.32,28692.62,24728.1,4.56,21.32,75.0,STRONG UPTREND,"Momentum Long, MR Short (Overextension)","Momentum Long: Momentum: holding above SMA20, reduced size; MR Short (Overextension): MR Short: overextended 4.6% but not above upper BB"
