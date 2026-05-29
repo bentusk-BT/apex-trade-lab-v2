@@ -1,18 +1,19 @@
 {
-  "date": "2026-05-27",
-  "generated_utc": "2026-05-28T22:51:18.832706",
+  "date": "2026-05-28",
+  "generated_utc": "2026-05-29T22:48:31.505393",
   "regime": "STRONG UPTREND",
-  "tqqq_pct": 7.5,
-  "sqqq_pct": 0,
-  "cash_pct": 92.5,
+  "tqqq_pct": 3.5,
+  "sqqq_pct": 0.0,
+  "cash_pct": 96.5,
   "active_strategies": [
-    "Momentum Long"
+    "Momentum Long",
+    "MR Short (Overextension)"
   ],
-  "reason": "Momentum Long: Momentum: holding above SMA20, reduced size",
-  "ndx_close": 29973.57,
-  "ndx_vs_sma20_pct": 3.93,
-  "ndx_vs_sma250_pct": 21.04,
-  "rsi": 74.5,
-  "equity": 106928.93,
-  "action": "Light long TQQQ (8%)"
+  "reason": "Momentum Long: Momentum: holding above SMA20, reduced size; MR Short (Overextension): MR Short: overextended 4.3% but not above upper BB",
+  "ndx_close": 30223.89,
+  "ndx_vs_sma20_pct": 4.25,
+  "ndx_vs_sma250_pct": 21.88,
+  "rsi": 76.3,
+  "equity": 107028.51,
+  "action": "Light long TQQQ (4%)"
 }
