@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-06-03T23:16:32.103738",
+  "last_updated": "2026-06-04T22:52:09.161457",
   "cash": 102882.69290968796,
   "starting_capital": 100000,
-  "total_equity": 107203.89765066351,
+  "total_equity": 107171.19860326781,
   "positions": {
     "TQQQ": {
       "shares": 49.543736304716305,
       "avg_price": 65.80427833412875,
-      "current_price": 87.22000122070312,
+      "current_price": 86.55999755859375,
       "entry_date": "2026-03-31"
     }
   },
@@ -2006,6 +2006,25 @@
       "regime": "STRONG UPTREND",
       "active_strategies": "Momentum Long, MR Short (Overextension)",
       "strategy_details": "Momentum Long: Momentum: holding above SMA20, reduced size; MR Short (Overextension): MR Short: overextended 4.2% but not above upper BB"
+    },
+    {
+      "date": "2026-06-03",
+      "equity": 107171.2,
+      "cash": 102882.69,
+      "tqqq_value": 4288.51,
+      "sqqq_value": 0.0,
+      "tqqq_alloc": 7.5,
+      "sqqq_alloc": 0,
+      "cash_alloc": 92.5,
+      "ndx_close": 30571.24,
+      "sma20": 29554.17,
+      "sma250": 24941.61,
+      "ext_sma20": 3.44,
+      "ext_sma250": 22.57,
+      "rsi": 77.0,
+      "regime": "STRONG UPTREND",
+      "active_strategies": "Momentum Long",
+      "strategy_details": "Momentum Long: Momentum: holding above SMA20, reduced size"
     }
   ],
   "trade_log": [
@@ -4278,6 +4297,19 @@
       "rsi": 79.2,
       "active_strategies": "Momentum Long, MR Short (Overextension)",
       "strategy_details": "Momentum Long: Momentum: holding above SMA20, reduced size; MR Short (Overextension): MR Short: overextended 4.2% but not above upper BB"
+    },
+    {
+      "date": "2026-06-03",
+      "tqqq_weight": 0.075,
+      "sqqq_weight": 0,
+      "cash_weight": 0.925,
+      "regime": "STRONG UPTREND",
+      "ndx_close": 30571.24,
+      "ext_sma20": 3.44,
+      "ext_sma250": 22.57,
+      "rsi": 77.0,
+      "active_strategies": "Momentum Long",
+      "strategy_details": "Momentum Long: Momentum: holding above SMA20, reduced size"
     }
   ],
   "regime_history": [
