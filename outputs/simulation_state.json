@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-06-18T23:15:59.649121",
-  "cash": 79144.30735434227,
+  "last_updated": "2026-06-19T22:29:48.774761",
+  "cash": 92554.07503416057,
   "starting_capital": 100000,
-  "total_equity": 110770.49738693352,
+  "total_equity": 110905.23546780937,
   "positions": {
-    "TQQQ": {
-      "shares": 387.05014753129865,
-      "avg_price": 80.18150094791086,
-      "current_price": 81.71083316802978,
-      "entry_date": "2026-03-31"
+    "SQQQ": {
+      "shares": 493.0642221169671,
+      "avg_price": 37.21860076332092,
+      "current_price": 37.21860076332092,
+      "entry_date": "2026-06-18"
     }
   },
   "equity_history": [
@@ -2215,6 +2215,25 @@
       "regime": "STRONG UPTREND",
       "active_strategies": "MR Long 1 (SMA20 Pullback)",
       "strategy_details": "MR Long 1 (SMA20 Pullback): MR Long 1: pullback to SMA20, ext=-0.4%"
+    },
+    {
+      "date": "2026-06-18",
+      "equity": 110905.24,
+      "cash": 92554.08,
+      "tqqq_value": 0.0,
+      "sqqq_value": 18351.16,
+      "tqqq_alloc": 0,
+      "sqqq_alloc": 16.5,
+      "cash_alloc": 83.5,
+      "ndx_close": NaN,
+      "sma20": null,
+      "sma250": null,
+      "ext_sma20": NaN,
+      "ext_sma250": NaN,
+      "rsi": 53.3,
+      "regime": "STRONG DOWNTREND",
+      "active_strategies": "Momentum Short 1 (Breakdown), Momentum Short 2 (Failed Bounce)",
+      "strategy_details": "Momentum Short 1 (Breakdown): Mom Short 1: just below SMA250 (nan%), light short; Momentum Short 2 (Failed Bounce): Mom Short 2: failed bounce below SMA20 in downtrend"
     }
   ],
   "trade_log": [
@@ -3265,6 +3284,48 @@
       "ndx_close": 29670.95,
       "ndx_vs_sma20": "-0.4%",
       "ndx_vs_sma250": "+17.5%",
+      "rsi": 53.3,
+      "execution_timing": "D+1 open (decision 10min before close)"
+    },
+    {
+      "date": "2026-06-18",
+      "ticker": "TQQQ",
+      "action": "SELL",
+      "trade_type": "EXIT",
+      "shares": 387.0501,
+      "price": 82.06,
+      "value": 31760.93,
+      "realized_pnl": 726.67,
+      "equity_after": 110905.24,
+      "allocation_after_pct": 0.0,
+      "hold_days": 79,
+      "strategy": "Aggregated",
+      "reasoning": "Position rebalance",
+      "regime": "STRONG DOWNTREND",
+      "ndx_close": NaN,
+      "ndx_vs_sma20": "+nan%",
+      "ndx_vs_sma250": "+nan%",
+      "rsi": 53.3,
+      "execution_timing": "D+1 open (decision 10min before close)"
+    },
+    {
+      "date": "2026-06-18",
+      "ticker": "SQQQ",
+      "action": "BUY",
+      "trade_type": "NEW ENTRY",
+      "shares": 493.0642,
+      "price": 37.22,
+      "value": 18351.16,
+      "realized_pnl": 0.0,
+      "equity_after": 110905.24,
+      "allocation_after_pct": 16.5,
+      "hold_days": 0,
+      "strategy": "Momentum Short 1 (Breakdown) + Momentum Short 2 (Failed Bounce)",
+      "reasoning": "Mom Short 1: just below SMA250 (nan%), light short | Mom Short 2: failed bounce below SMA20 in downtrend",
+      "regime": "STRONG DOWNTREND",
+      "ndx_close": NaN,
+      "ndx_vs_sma20": "+nan%",
+      "ndx_vs_sma250": "+nan%",
       "rsi": 53.3,
       "execution_timing": "D+1 open (decision 10min before close)"
     }
@@ -4777,6 +4838,19 @@
       "rsi": 53.3,
       "active_strategies": "MR Long 1 (SMA20 Pullback)",
       "strategy_details": "MR Long 1 (SMA20 Pullback): MR Long 1: pullback to SMA20, ext=-0.4%"
+    },
+    {
+      "date": "2026-06-18",
+      "tqqq_weight": 0,
+      "sqqq_weight": 0.165,
+      "cash_weight": 0.835,
+      "regime": "STRONG DOWNTREND",
+      "ndx_close": NaN,
+      "ext_sma20": NaN,
+      "ext_sma250": NaN,
+      "rsi": 53.3,
+      "active_strategies": "Momentum Short 1 (Breakdown), Momentum Short 2 (Failed Bounce)",
+      "strategy_details": "Momentum Short 1 (Breakdown): Mom Short 1: just below SMA250 (nan%), light short; Momentum Short 2 (Failed Bounce): Mom Short 2: failed bounce below SMA20 in downtrend"
     }
   ],
   "regime_history": [
@@ -4821,6 +4895,12 @@
       "regime": "STRONG UPTREND",
       "ndx_close": 24903.17,
       "ext_sma250": 5.14
+    },
+    {
+      "date": "2026-06-18",
+      "regime": "STRONG DOWNTREND",
+      "ndx_close": NaN,
+      "ext_sma250": NaN
     }
   ]
 }

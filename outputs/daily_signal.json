@@ -1,18 +1,19 @@
 {
-  "date": "2026-06-17",
-  "generated_utc": "2026-06-18T23:15:59.608962",
-  "regime": "STRONG UPTREND",
-  "tqqq_pct": 28.8,
-  "sqqq_pct": 0,
-  "cash_pct": 71.2,
+  "date": "2026-06-18",
+  "generated_utc": "2026-06-19T22:29:48.722211",
+  "regime": "STRONG DOWNTREND",
+  "tqqq_pct": 0,
+  "sqqq_pct": 16.5,
+  "cash_pct": 83.5,
   "active_strategies": [
-    "MR Long 1 (SMA20 Pullback)"
+    "Momentum Short 1 (Breakdown)",
+    "Momentum Short 2 (Failed Bounce)"
   ],
-  "reason": "MR Long 1 (SMA20 Pullback): MR Long 1: pullback to SMA20, ext=-0.4%",
-  "ndx_close": 29670.95,
-  "ndx_vs_sma20_pct": -0.44,
-  "ndx_vs_sma250_pct": 17.5,
+  "reason": "Momentum Short 1 (Breakdown): Mom Short 1: just below SMA250 (nan%), light short; Momentum Short 2 (Failed Bounce): Mom Short 2: failed bounce below SMA20 in downtrend",
+  "ndx_close": NaN,
+  "ndx_vs_sma20_pct": NaN,
+  "ndx_vs_sma250_pct": NaN,
   "rsi": 53.3,
-  "equity": 110770.5,
-  "action": "Light long TQQQ (29%)"
+  "equity": 110905.24,
+  "action": "Light short via SQQQ (16%)"
 }
