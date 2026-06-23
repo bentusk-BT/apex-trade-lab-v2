@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-06-22T22:59:56.984798",
-  "cash": 92554.07503416057,
+  "last_updated": "2026-06-23T22:45:05.857208",
+  "cash": 102141.06576700136,
   "starting_capital": 100000,
-  "total_equity": 110905.23546780937,
+  "total_equity": 110448.28603505722,
   "positions": {
-    "SQQQ": {
-      "shares": 493.0642221169671,
-      "avg_price": 37.21860076332092,
-      "current_price": 37.21860076332092,
-      "entry_date": "2026-06-18"
+    "TQQQ": {
+      "shares": 98.90493192999298,
+      "avg_price": 83.9919719467163,
+      "current_price": 83.9919719467163,
+      "entry_date": "2026-06-22"
     }
   },
   "equity_history": [
@@ -2234,6 +2234,25 @@
       "regime": "STRONG DOWNTREND",
       "active_strategies": "Momentum Short 1 (Breakdown), Momentum Short 2 (Failed Bounce)",
       "strategy_details": "Momentum Short 1 (Breakdown): Mom Short 1: just below SMA250 (nan%), light short; Momentum Short 2 (Failed Bounce): Mom Short 2: failed bounce below SMA20 in downtrend"
+    },
+    {
+      "date": "2026-06-22",
+      "equity": 110448.29,
+      "cash": 102141.07,
+      "tqqq_value": 8307.22,
+      "sqqq_value": 0.0,
+      "tqqq_alloc": 7.5,
+      "sqqq_alloc": 0,
+      "cash_alloc": 92.5,
+      "ndx_close": 30347.08,
+      "sma20": 29907.49,
+      "sma250": 25321.92,
+      "ext_sma20": 1.47,
+      "ext_sma250": 19.85,
+      "rsi": 58.4,
+      "regime": "STRONG UPTREND",
+      "active_strategies": "Momentum Long",
+      "strategy_details": "Momentum Long: Momentum: holding above SMA20, reduced size"
     }
   ],
   "trade_log": [
@@ -3327,6 +3346,48 @@
       "ndx_vs_sma20": "+nan%",
       "ndx_vs_sma250": "+nan%",
       "rsi": 53.3,
+      "execution_timing": "D+1 open (decision 10min before close)"
+    },
+    {
+      "date": "2026-06-22",
+      "ticker": "TQQQ",
+      "action": "BUY",
+      "trade_type": "NEW ENTRY",
+      "shares": 98.9049,
+      "price": 83.99,
+      "value": 8307.22,
+      "realized_pnl": 0.0,
+      "equity_after": 110762.94,
+      "allocation_after_pct": 7.5,
+      "hold_days": 0,
+      "strategy": "Momentum Long",
+      "reasoning": "Momentum: holding above SMA20, reduced size",
+      "regime": "STRONG UPTREND",
+      "ndx_close": 30347.08,
+      "ndx_vs_sma20": "+1.5%",
+      "ndx_vs_sma250": "+19.8%",
+      "rsi": 58.4,
+      "execution_timing": "D+1 open (decision 10min before close)"
+    },
+    {
+      "date": "2026-06-22",
+      "ticker": "SQQQ",
+      "action": "SELL",
+      "trade_type": "EXIT",
+      "shares": 493.0642,
+      "price": 36.29,
+      "value": 17894.21,
+      "realized_pnl": -456.95,
+      "equity_after": 110448.29,
+      "allocation_after_pct": 0.0,
+      "hold_days": 4,
+      "strategy": "Aggregated",
+      "reasoning": "Position rebalance",
+      "regime": "STRONG UPTREND",
+      "ndx_close": 30347.08,
+      "ndx_vs_sma20": "+1.5%",
+      "ndx_vs_sma250": "+19.8%",
+      "rsi": 58.4,
       "execution_timing": "D+1 open (decision 10min before close)"
     }
   ],
@@ -4851,6 +4912,19 @@
       "rsi": 53.3,
       "active_strategies": "Momentum Short 1 (Breakdown), Momentum Short 2 (Failed Bounce)",
       "strategy_details": "Momentum Short 1 (Breakdown): Mom Short 1: just below SMA250 (nan%), light short; Momentum Short 2 (Failed Bounce): Mom Short 2: failed bounce below SMA20 in downtrend"
+    },
+    {
+      "date": "2026-06-22",
+      "tqqq_weight": 0.075,
+      "sqqq_weight": 0,
+      "cash_weight": 0.925,
+      "regime": "STRONG UPTREND",
+      "ndx_close": 30347.08,
+      "ext_sma20": 1.47,
+      "ext_sma250": 19.85,
+      "rsi": 58.4,
+      "active_strategies": "Momentum Long",
+      "strategy_details": "Momentum Long: Momentum: holding above SMA20, reduced size"
     }
   ],
   "regime_history": [
@@ -4901,6 +4975,12 @@
       "regime": "STRONG DOWNTREND",
       "ndx_close": NaN,
       "ext_sma250": NaN
+    },
+    {
+      "date": "2026-06-22",
+      "regime": "STRONG UPTREND",
+      "ndx_close": 30347.08,
+      "ext_sma250": 19.85
     }
   ]
 }
