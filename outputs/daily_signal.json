@@ -1,18 +1,19 @@
 {
-  "date": "2026-06-30",
-  "generated_utc": "2026-07-01T22:45:13.310444",
+  "date": "2026-07-01",
+  "generated_utc": "2026-07-02T22:34:58.433013",
   "regime": "STRONG UPTREND",
-  "tqqq_pct": 7.5,
+  "tqqq_pct": 19.5,
   "sqqq_pct": 0,
-  "cash_pct": 92.5,
+  "cash_pct": 80.5,
   "active_strategies": [
-    "Momentum Long"
+    "Momentum Long",
+    "MR Long 1 (SMA20 Pullback)"
   ],
-  "reason": "Momentum Long: Momentum: holding above SMA20, reduced size",
-  "ndx_close": 30276.35,
-  "ndx_vs_sma20_pct": 1.8,
-  "ndx_vs_sma250_pct": 18.77,
-  "rsi": 57.0,
-  "equity": 110354.34,
-  "action": "Light long TQQQ (8%)"
+  "reason": "Momentum Long: Momentum: holding above SMA20, reduced size; MR Long 1 (SMA20 Pullback): MR Long 1: pullback to SMA20, ext=0.4%",
+  "ndx_close": 29809.13,
+  "ndx_vs_sma20_pct": 0.38,
+  "ndx_vs_sma250_pct": 16.8,
+  "rsi": 52.5,
+  "equity": 110523.03,
+  "action": "Light long TQQQ (20%)"
 }
