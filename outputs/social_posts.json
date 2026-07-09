@@ -1,14 +1,5 @@
 [
   {
-    "date": "2026-04-01",
-    "type": "daily",
-    "generated": "2026-04-02T23:02:54.421848",
-    "twitter": "\ud83d\udfe2 APEX TRADE LAB Daily Signal \u2014 2026-04-01\n\nRegime: UPTREND\nAction: Light long TQQQ (23%)\n\nTQQQ: 23% | SQQQ: 0% | Cash: 77%\nNDX: 24,020 | RSI: 46\n\nPaper trading simulation \u2014 not financial advice.\n#TQQQ #SQQQ #AlgoTrading #SystematicTrading #PaperTrading",
-    "facebook": "\u26a1 APEX TRADE LAB \u2014 Daily Signal Update\n\ud83d\udcc5 2026-04-01\n\n\ud83d\udfe2 Market Regime: UPTREND\n\ud83d\udcca Action: Light long TQQQ (23%)\n\nPortfolio Allocation:\n  \u2022 TQQQ (3x Long): 23%\n  \u2022 SQQQ (3x Short): 0%\n  \u2022 Cash: 77%\n\nNDX closed at 24,020 | RSI: 46\n\nThis is a paper trading simulation for educational purposes.\nFull dashboard: [link in bio]\n\n#TQQQ #SQQQ #AlgoTrading #SystematicTrading #PaperTrading",
-    "telegram": "\u26a1 <b>APEX TRADE LAB</b> \u2014 2026-04-01\n\n\ud83d\udfe2 <b>UPTREND</b>\nAction: Light long TQQQ (23%)\n\nTQQQ: 23% | SQQQ: 0% | Cash: 77%\nNDX: 24,020 | RSI: 46\n\n<i>Paper trading only \u2014 not advice.</i>",
-    "discord": "\ud83d\udfe2 APEX TRADE LAB Daily Signal \u2014 2026-04-01\n\nRegime: UPTREND\nAction: Light long TQQQ (23%)\n\nTQQQ: 23% | SQQQ: 0% | Cash: 77%\nNDX: 24,020 | RSI: 46\n\nPaper trading simulation \u2014 not financial advice.\n#TQQQ #SQQQ #AlgoTrading #SystematicTrading #PaperTrading"
-  },
-  {
     "date": "2026-04-02",
     "type": "daily",
     "generated": "2026-04-03T23:03:04.559307",
@@ -808,5 +799,14 @@
     "facebook": "\u26a1 APEX TRADE LAB \u2014 Daily Signal Update\n\ud83d\udcc5 2026-07-07\n\n\ud83d\udfe2 Market Regime: STRONG UPTREND\n\ud83d\udcca Action: Light long TQQQ (8%)\n\nPortfolio Allocation:\n  \u2022 TQQQ (3x Long): 8%\n  \u2022 SQQQ (3x Short): 0%\n  \u2022 Cash: 92%\n\nNDX closed at 29,173 | RSI: 47\n\nThis is a paper trading simulation for educational purposes.\nFull dashboard: [link in bio]\n\n#TQQQ #SQQQ #AlgoTrading #SystematicTrading #PaperTrading",
     "telegram": "\u26a1 <b>APEX TRADE LAB</b> \u2014 2026-07-07\n\n\ud83d\udfe2 <b>STRONG UPTREND</b>\nAction: Light long TQQQ (8%)\n\nTQQQ: 8% | SQQQ: 0% | Cash: 92%\nNDX: 29,173 | RSI: 47\n\n<i>Paper trading only \u2014 not advice.</i>",
     "discord": "\ud83d\udfe2 APEX TRADE LAB Daily Signal \u2014 2026-07-07\n\nRegime: STRONG UPTREND\nAction: Light long TQQQ (8%)\n\nTQQQ: 8% | SQQQ: 0% | Cash: 92%\nNDX: 29,173 | RSI: 47\n\nPaper trading simulation \u2014 not financial advice.\n#TQQQ #SQQQ #AlgoTrading #SystematicTrading #PaperTrading"
+  },
+  {
+    "date": "2026-07-08",
+    "type": "daily",
+    "generated": "2026-07-09T22:48:07.129202",
+    "twitter": "\ud83d\udfe2 APEX TRADE LAB Daily Signal \u2014 2026-07-08\n\nRegime: STRONG UPTREND\nAction: Light long TQQQ (8%)\n\nTQQQ: 8% | SQQQ: 0% | Cash: 92%\nNDX: 29,253 | RSI: 48\n\nPaper trading simulation \u2014 not financial advice.\n#TQQQ #SQQQ #AlgoTrading #SystematicTrading #PaperTrading",
+    "facebook": "\u26a1 APEX TRADE LAB \u2014 Daily Signal Update\n\ud83d\udcc5 2026-07-08\n\n\ud83d\udfe2 Market Regime: STRONG UPTREND\n\ud83d\udcca Action: Light long TQQQ (8%)\n\nPortfolio Allocation:\n  \u2022 TQQQ (3x Long): 8%\n  \u2022 SQQQ (3x Short): 0%\n  \u2022 Cash: 92%\n\nNDX closed at 29,253 | RSI: 48\n\nThis is a paper trading simulation for educational purposes.\nFull dashboard: [link in bio]\n\n#TQQQ #SQQQ #AlgoTrading #SystematicTrading #PaperTrading",
+    "telegram": "\u26a1 <b>APEX TRADE LAB</b> \u2014 2026-07-08\n\n\ud83d\udfe2 <b>STRONG UPTREND</b>\nAction: Light long TQQQ (8%)\n\nTQQQ: 8% | SQQQ: 0% | Cash: 92%\nNDX: 29,253 | RSI: 48\n\n<i>Paper trading only \u2014 not advice.</i>",
+    "discord": "\ud83d\udfe2 APEX TRADE LAB Daily Signal \u2014 2026-07-08\n\nRegime: STRONG UPTREND\nAction: Light long TQQQ (8%)\n\nTQQQ: 8% | SQQQ: 0% | Cash: 92%\nNDX: 29,253 | RSI: 48\n\nPaper trading simulation \u2014 not financial advice.\n#TQQQ #SQQQ #AlgoTrading #SystematicTrading #PaperTrading"
   }
 ]
