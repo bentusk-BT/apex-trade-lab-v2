@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-07-15T22:27:52.851534",
+  "last_updated": "2026-07-16T22:27:27.634554",
   "cash": 80058.90707633024,
   "starting_capital": 100000,
-  "total_equity": 109525.32402723277,
+  "total_equity": 109212.95025128855,
   "positions": {
     "TQQQ": {
       "shares": 391.6448444222748,
       "avg_price": 75.35069244950668,
-      "current_price": 75.23759694671631,
+      "current_price": 74.44000244140625,
       "entry_date": "2026-06-22"
     }
   },
@@ -2538,6 +2538,25 @@
       "regime": "STRONG UPTREND",
       "active_strategies": "MR Long 1 (SMA20 Pullback)",
       "strategy_details": "MR Long 1 (SMA20 Pullback): MR Long 1: pullback to SMA20, ext=-0.3%"
+    },
+    {
+      "date": "2026-07-15",
+      "equity": 109212.95,
+      "cash": 80058.91,
+      "tqqq_value": 29154.04,
+      "sqqq_value": 0.0,
+      "tqqq_alloc": 29.1,
+      "sqqq_alloc": 0,
+      "cash_alloc": 70.9,
+      "ndx_close": 29502.6,
+      "sma20": 29636.82,
+      "sma250": 25760.95,
+      "ext_sma20": -0.45,
+      "ext_sma250": 14.52,
+      "rsi": 49.9,
+      "regime": "STRONG UPTREND",
+      "active_strategies": "MR Long 1 (SMA20 Pullback)",
+      "strategy_details": "MR Long 1 (SMA20 Pullback): MR Long 1: pullback to SMA20, ext=-0.5%"
     }
   ],
   "trade_log": [
@@ -5594,6 +5613,19 @@
       "rsi": 50.7,
       "active_strategies": "MR Long 1 (SMA20 Pullback)",
       "strategy_details": "MR Long 1 (SMA20 Pullback): MR Long 1: pullback to SMA20, ext=-0.3%"
+    },
+    {
+      "date": "2026-07-15",
+      "tqqq_weight": 0.2906,
+      "sqqq_weight": 0,
+      "cash_weight": 0.7094,
+      "regime": "STRONG UPTREND",
+      "ndx_close": 29502.6,
+      "ext_sma20": -0.45,
+      "ext_sma250": 14.52,
+      "rsi": 49.9,
+      "active_strategies": "MR Long 1 (SMA20 Pullback)",
+      "strategy_details": "MR Long 1 (SMA20 Pullback): MR Long 1: pullback to SMA20, ext=-0.5%"
     }
   ],
   "regime_history": [
