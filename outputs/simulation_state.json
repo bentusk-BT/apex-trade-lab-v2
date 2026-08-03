@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-07-31T22:32:02.361437",
+  "last_updated": "2026-08-03T22:32:37.490444",
   "cash": 98280.22307807844,
   "starting_capital": 100000,
-  "total_equity": 106887.70025312627,
+  "total_equity": 107383.66550719531,
   "positions": {
     "TQQQ": {
       "shares": 140.87654042383002,
       "avg_price": 64.45987106117292,
-      "current_price": 61.09943606758118,
+      "current_price": 64.62000274658203,
       "entry_date": "2026-06-22"
     }
   },
@@ -2766,6 +2766,25 @@
       "regime": "STRONG UPTREND",
       "active_strategies": "MR Long 2 (Deep Pullback)",
       "strategy_details": "MR Long 2 (Deep Pullback): MR Long 2: recovering below middle BB, ext=-2.6%"
+    },
+    {
+      "date": "2026-07-31",
+      "equity": 107383.67,
+      "cash": 98280.22,
+      "tqqq_value": 9103.44,
+      "sqqq_value": 0.0,
+      "tqqq_alloc": 8.0,
+      "sqqq_alloc": 0,
+      "cash_alloc": 92.0,
+      "ndx_close": 28274.2,
+      "sma20": 28818.15,
+      "sma250": 26010.14,
+      "ext_sma20": -1.89,
+      "ext_sma250": 8.7,
+      "rsi": 45.0,
+      "regime": "STRONG UPTREND",
+      "active_strategies": "MR Long 2 (Deep Pullback)",
+      "strategy_details": "MR Long 2 (Deep Pullback): MR Long 2: recovering below middle BB, ext=-1.9%"
     }
   ],
   "trade_log": [
@@ -6146,6 +6165,19 @@
       "rsi": 43.2,
       "active_strategies": "MR Long 2 (Deep Pullback)",
       "strategy_details": "MR Long 2 (Deep Pullback): MR Long 2: recovering below middle BB, ext=-2.6%"
+    },
+    {
+      "date": "2026-07-31",
+      "tqqq_weight": 0.08,
+      "sqqq_weight": 0,
+      "cash_weight": 0.92,
+      "regime": "STRONG UPTREND",
+      "ndx_close": 28274.2,
+      "ext_sma20": -1.89,
+      "ext_sma250": 8.7,
+      "rsi": 45.0,
+      "active_strategies": "MR Long 2 (Deep Pullback)",
+      "strategy_details": "MR Long 2 (Deep Pullback): MR Long 2: recovering below middle BB, ext=-1.9%"
     }
   ],
   "regime_history": [
