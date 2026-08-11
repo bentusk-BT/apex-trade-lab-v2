@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-08-10T22:05:33.790454",
+  "last_updated": "2026-08-11T22:10:03.822965",
   "cash": 100897.5349590189,
   "starting_capital": 100000,
-  "total_equity": 109693.64818507667,
+  "total_equity": 109614.510550342,
   "positions": {
     "TQQQ": {
       "shares": 118.1161955401231,
       "avg_price": 64.61985076002206,
-      "current_price": 74.47000122070312,
+      "current_price": 73.80000305175781,
       "entry_date": "2026-06-22"
     }
   },
@@ -2877,6 +2877,25 @@
       "ext_sma20": 3.24,
       "ext_sma250": 13.74,
       "rsi": 57.2,
+      "regime": "STRONG UPTREND",
+      "active_strategies": "Momentum Long",
+      "strategy_details": "Momentum Long: Momentum: holding above SMA20, reduced size"
+    },
+    {
+      "date": "2026-08-10",
+      "equity": 109614.51,
+      "cash": 100897.53,
+      "tqqq_value": 8716.98,
+      "sqqq_value": 0.0,
+      "tqqq_alloc": 7.5,
+      "sqqq_alloc": 0,
+      "cash_alloc": 92.5,
+      "ndx_close": 29621.8,
+      "sma20": 28806.92,
+      "sma250": 26156.8,
+      "ext_sma20": 2.83,
+      "ext_sma250": 13.25,
+      "rsi": 56.1,
       "regime": "STRONG UPTREND",
       "active_strategies": "Momentum Long",
       "strategy_details": "Momentum Long: Momentum: holding above SMA20, reduced size"
@@ -6378,6 +6397,19 @@
       "ext_sma20": 3.24,
       "ext_sma250": 13.74,
       "rsi": 57.2,
+      "active_strategies": "Momentum Long",
+      "strategy_details": "Momentum Long: Momentum: holding above SMA20, reduced size"
+    },
+    {
+      "date": "2026-08-10",
+      "tqqq_weight": 0.075,
+      "sqqq_weight": 0,
+      "cash_weight": 0.925,
+      "regime": "STRONG UPTREND",
+      "ndx_close": 29621.8,
+      "ext_sma20": 2.83,
+      "ext_sma250": 13.25,
+      "rsi": 56.1,
       "active_strategies": "Momentum Long",
       "strategy_details": "Momentum Long: Momentum: holding above SMA20, reduced size"
     }
