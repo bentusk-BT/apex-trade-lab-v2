@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-08-13T22:09:36.122294",
+  "last_updated": "2026-08-14T21:47:45.097019",
   "cash": 100897.5349590189,
   "starting_capital": 100000,
-  "total_equity": 109709.00296608107,
+  "total_equity": 110010.19962517041,
   "positions": {
     "TQQQ": {
       "shares": 118.1161955401231,
       "avg_price": 64.61985076002206,
-      "current_price": 74.5999984741211,
+      "current_price": 77.1500015258789,
       "entry_date": "2026-06-22"
     }
   },
@@ -2937,6 +2937,25 @@
       "regime": "STRONG UPTREND",
       "active_strategies": "Momentum Long",
       "strategy_details": "Momentum Long: Momentum: holding above SMA20, reduced size"
+    },
+    {
+      "date": "2026-08-13",
+      "equity": 110010.2,
+      "cash": 100897.53,
+      "tqqq_value": 9112.66,
+      "sqqq_value": 0.0,
+      "tqqq_alloc": 3.5,
+      "sqqq_alloc": 0.0,
+      "cash_alloc": 96.5,
+      "ndx_close": 30084.5,
+      "sma20": 28868.81,
+      "sma250": 26228.13,
+      "ext_sma20": 4.21,
+      "ext_sma250": 14.7,
+      "rsi": 60.1,
+      "regime": "STRONG UPTREND",
+      "active_strategies": "Momentum Long, MR Short (Overextension)",
+      "strategy_details": "Momentum Long: Momentum: holding above SMA20, reduced size; MR Short (Overextension): MR Short: overextended 4.2% but not above upper BB"
     }
   ],
   "trade_log": [
@@ -6476,6 +6495,19 @@
       "rsi": 57.1,
       "active_strategies": "Momentum Long",
       "strategy_details": "Momentum Long: Momentum: holding above SMA20, reduced size"
+    },
+    {
+      "date": "2026-08-13",
+      "tqqq_weight": 0.035,
+      "sqqq_weight": 0.0,
+      "cash_weight": 0.965,
+      "regime": "STRONG UPTREND",
+      "ndx_close": 30084.5,
+      "ext_sma20": 4.21,
+      "ext_sma250": 14.7,
+      "rsi": 60.1,
+      "active_strategies": "Momentum Long, MR Short (Overextension)",
+      "strategy_details": "Momentum Long: Momentum: holding above SMA20, reduced size; MR Short (Overextension): MR Short: overextended 4.2% but not above upper BB"
     }
   ],
   "regime_history": [
