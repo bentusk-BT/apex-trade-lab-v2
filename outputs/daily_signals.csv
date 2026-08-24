@@ -159,3 +159,4 @@ date,tqqq_weight,sqqq_weight,cash_weight,regime,ndx_close,ext_sma20,ext_sma250,r
 2026-08-18,0.075,0.0,0.925,STRONG UPTREND,29490.96,1.61,12.39,51.9,Momentum Long,"Momentum Long: Momentum: holding above SMA20, reduced size"
 2026-08-19,0.075,0.0,0.925,STRONG UPTREND,29426.02,1.3,11.77,51.4,Momentum Long,"Momentum Long: Momentum: holding above SMA20, reduced size"
 2026-08-20,0.195,0.0,0.805,STRONG UPTREND,29213.16,0.43,10.86,48.7,"Momentum Long, MR Long 1 (SMA20 Pullback)","Momentum Long: Momentum: holding above SMA20, reduced size; MR Long 1 (SMA20 Pullback): MR Long 1: pullback to SMA20, ext=0.4%"
+2026-08-21,0.195,0.0,0.805,STRONG UPTREND,29308.86,0.56,11.12,50.0,"Momentum Long, MR Long 1 (SMA20 Pullback)","Momentum Long: Momentum: holding above SMA20, reduced size; MR Long 1 (SMA20 Pullback): MR Long 1: pullback to SMA20, ext=0.6%"
