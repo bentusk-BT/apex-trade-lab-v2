@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-01",
-  "generated_utc": "2026-09-02T23:27:26.537404",
+  "date": "2026-09-02",
+  "generated_utc": "2026-09-03T23:23:36.297221",
   "regime": "STRONG UPTREND",
   "tqqq_pct": 8.0,
   "sqqq_pct": 0,
@@ -8,11 +8,11 @@
   "active_strategies": [
     "MR Long 2 (Deep Pullback)"
   ],
-  "reason": "MR Long 2 (Deep Pullback): MR Long 2: recovering below middle BB, ext=-1.5%",
-  "ndx_close": 29077.22,
-  "ndx_vs_sma20_pct": -1.5,
-  "ndx_vs_sma250_pct": 9.67,
-  "rsi": 46.8,
-  "equity": 108859.03,
+  "reason": "MR Long 2 (Deep Pullback): MR Long 2: recovering below middle BB, ext=-1.2%",
+  "ndx_close": 29143.33,
+  "ndx_vs_sma20_pct": -1.17,
+  "ndx_vs_sma250_pct": 9.72,
+  "rsi": 47.6,
+  "equity": 108930.27,
   "action": "Light long TQQQ (8%)"
 }

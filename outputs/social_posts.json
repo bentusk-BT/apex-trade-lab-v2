@@ -1,15 +1,6 @@
 [
   {
     "date": "2026-05-29",
-    "type": "weekly",
-    "generated": "2026-05-29T22:48:31.505740",
-    "twitter": "\ud83d\udcc8 APEX TRADE LAB \u2014 Weekly P&L\nWeek ending 2026-05-29\n\nWeekly: $+333 (+0.3%)\nTotal Return: +7.0%\nPortfolio: $107,029\nTrades this week: 0\n\nPaper trading sim \u2014 not advice.\n#TQQQ #SQQQ #AlgoTrading #SystematicTrading #PaperTrading",
-    "facebook": "\ud83d\udcca APEX TRADE LAB \u2014 Weekly Performance Report\nWeek ending 2026-05-29\n\n\ud83d\udcc8 This Week: $+333 (+0.3%)\n\ud83d\udcb0 Portfolio Value: $107,029\n\ud83d\udcc8 Total Return: +7.0%\n\ud83d\udd04 Trades Executed: 0\n\nThe system traded conservatively this week.\n\nFull analysis: [link in bio]\n\nPaper trading simulation \u2014 educational purposes only.\n#TQQQ #SQQQ #AlgoTrading #SystematicTrading #PaperTrading",
-    "telegram": "\ud83d\udcc8 APEX TRADE LAB \u2014 Weekly P&L\nWeek ending 2026-05-29\n\nWeekly: $+333 (+0.3%)\nTotal Return: +7.0%\nPortfolio: $107,029\nTrades this week: 0\n\nPaper trading sim \u2014 not advice.\n#TQQQ #SQQQ #AlgoTrading #SystematicTrading #PaperTrading",
-    "discord": "\ud83d\udcc8 APEX TRADE LAB \u2014 Weekly P&L\nWeek ending 2026-05-29\n\nWeekly: $+333 (+0.3%)\nTotal Return: +7.0%\nPortfolio: $107,029\nTrades this week: 0\n\nPaper trading sim \u2014 not advice.\n#TQQQ #SQQQ #AlgoTrading #SystematicTrading #PaperTrading"
-  },
-  {
-    "date": "2026-05-29",
     "type": "monthly",
     "generated": "2026-05-29T22:48:31.505766",
     "twitter": "\ud83d\udcca APEX TRADE LAB \u2014 Monthly Report\n2026-05-29\n\nTotal Return: +7.0%\nCAGR: +18.2%\nSharpe: 1.43\nMax DD: -5.9%\nWin Rate: 52%\nPortfolio: $107,029\n\nFull report + live dashboard: [link]\n#TQQQ #SQQQ #AlgoTrading #SystematicTrading #PaperTrading",
@@ -808,5 +799,14 @@
     "facebook": "\u26a1 APEX TRADE LAB \u2014 Daily Signal Update\n\ud83d\udcc5 2026-09-01\n\n\ud83d\udfe2 Market Regime: STRONG UPTREND\n\ud83d\udcca Action: Light long TQQQ (8%)\n\nPortfolio Allocation:\n  \u2022 TQQQ (3x Long): 8%\n  \u2022 SQQQ (3x Short): 0%\n  \u2022 Cash: 92%\n\nNDX closed at 29,077 | RSI: 47\n\nThis is a paper trading simulation for educational purposes.\nFull dashboard: [link in bio]\n\n#TQQQ #SQQQ #AlgoTrading #SystematicTrading #PaperTrading",
     "telegram": "\u26a1 <b>APEX TRADE LAB</b> \u2014 2026-09-01\n\n\ud83d\udfe2 <b>STRONG UPTREND</b>\nAction: Light long TQQQ (8%)\n\nTQQQ: 8% | SQQQ: 0% | Cash: 92%\nNDX: 29,077 | RSI: 47\n\n<i>Paper trading only \u2014 not advice.</i>",
     "discord": "\ud83d\udfe2 APEX TRADE LAB Daily Signal \u2014 2026-09-01\n\nRegime: STRONG UPTREND\nAction: Light long TQQQ (8%)\n\nTQQQ: 8% | SQQQ: 0% | Cash: 92%\nNDX: 29,077 | RSI: 47\n\nPaper trading simulation \u2014 not financial advice.\n#TQQQ #SQQQ #AlgoTrading #SystematicTrading #PaperTrading"
+  },
+  {
+    "date": "2026-09-02",
+    "type": "daily",
+    "generated": "2026-09-03T23:23:36.297538",
+    "twitter": "\ud83d\udfe2 APEX TRADE LAB Daily Signal \u2014 2026-09-02\n\nRegime: STRONG UPTREND\nAction: Light long TQQQ (8%)\n\nTQQQ: 8% | SQQQ: 0% | Cash: 92%\nNDX: 29,143 | RSI: 48\n\nPaper trading simulation \u2014 not financial advice.\n#TQQQ #SQQQ #AlgoTrading #SystematicTrading #PaperTrading",
+    "facebook": "\u26a1 APEX TRADE LAB \u2014 Daily Signal Update\n\ud83d\udcc5 2026-09-02\n\n\ud83d\udfe2 Market Regime: STRONG UPTREND\n\ud83d\udcca Action: Light long TQQQ (8%)\n\nPortfolio Allocation:\n  \u2022 TQQQ (3x Long): 8%\n  \u2022 SQQQ (3x Short): 0%\n  \u2022 Cash: 92%\n\nNDX closed at 29,143 | RSI: 48\n\nThis is a paper trading simulation for educational purposes.\nFull dashboard: [link in bio]\n\n#TQQQ #SQQQ #AlgoTrading #SystematicTrading #PaperTrading",
+    "telegram": "\u26a1 <b>APEX TRADE LAB</b> \u2014 2026-09-02\n\n\ud83d\udfe2 <b>STRONG UPTREND</b>\nAction: Light long TQQQ (8%)\n\nTQQQ: 8% | SQQQ: 0% | Cash: 92%\nNDX: 29,143 | RSI: 48\n\n<i>Paper trading only \u2014 not advice.</i>",
+    "discord": "\ud83d\udfe2 APEX TRADE LAB Daily Signal \u2014 2026-09-02\n\nRegime: STRONG UPTREND\nAction: Light long TQQQ (8%)\n\nTQQQ: 8% | SQQQ: 0% | Cash: 92%\nNDX: 29,143 | RSI: 48\n\nPaper trading simulation \u2014 not financial advice.\n#TQQQ #SQQQ #AlgoTrading #SystematicTrading #PaperTrading"
   }
 ]
