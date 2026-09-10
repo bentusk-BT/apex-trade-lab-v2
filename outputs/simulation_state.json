@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-09T23:24:00.689003",
+  "last_updated": "2026-09-10T23:18:21.313331",
   "cash": 86326.08203590516,
   "starting_capital": 100000,
-  "total_equity": 109660.49863576042,
+  "total_equity": 109463.24243224412,
   "positions": {
     "TQQQ": {
       "shares": 323.3705018796718,
       "avg_price": 70.01944612052486,
-      "current_price": 72.16000366210938,
+      "current_price": 71.55000305175781,
       "entry_date": "2026-06-22"
     }
   },
@@ -3279,6 +3279,25 @@
       "regime": "STRONG UPTREND",
       "active_strategies": "Momentum Long, MR Long 1 (SMA20 Pullback)",
       "strategy_details": "Momentum Long: Momentum: holding above SMA20, reduced size; MR Long 1 (SMA20 Pullback): MR Long 1: pullback to SMA20, ext=0.1%"
+    },
+    {
+      "date": "2026-09-09",
+      "equity": 109463.24,
+      "cash": 86326.08,
+      "tqqq_value": 23137.16,
+      "sqqq_value": 0.0,
+      "tqqq_alloc": 23.5,
+      "sqqq_alloc": 0,
+      "cash_alloc": 76.5,
+      "ndx_close": 29421.55,
+      "sma20": 29473.64,
+      "sma250": 26651.84,
+      "ext_sma20": -0.18,
+      "ext_sma250": 10.39,
+      "rsi": 51.4,
+      "regime": "STRONG UPTREND",
+      "active_strategies": "MR Long 1 (SMA20 Pullback)",
+      "strategy_details": "MR Long 1 (SMA20 Pullback): MR Long 1: pullback to SMA20, ext=-0.2%"
     }
   ],
   "trade_log": [
@@ -7220,6 +7239,19 @@
       "rsi": 52.9,
       "active_strategies": "Momentum Long, MR Long 1 (SMA20 Pullback)",
       "strategy_details": "Momentum Long: Momentum: holding above SMA20, reduced size; MR Long 1 (SMA20 Pullback): MR Long 1: pullback to SMA20, ext=0.1%"
+    },
+    {
+      "date": "2026-09-09",
+      "tqqq_weight": 0.2353,
+      "sqqq_weight": 0,
+      "cash_weight": 0.7647,
+      "regime": "STRONG UPTREND",
+      "ndx_close": 29421.55,
+      "ext_sma20": -0.18,
+      "ext_sma250": 10.39,
+      "rsi": 51.4,
+      "active_strategies": "MR Long 1 (SMA20 Pullback)",
+      "strategy_details": "MR Long 1 (SMA20 Pullback): MR Long 1: pullback to SMA20, ext=-0.2%"
     }
   ],
   "regime_history": [
