@@ -1,19 +1,18 @@
 {
-  "date": "2026-09-22",
-  "generated_utc": "2026-09-23T23:49:29.339930",
-  "regime": "STRONG DOWNTREND",
-  "tqqq_pct": 0,
-  "sqqq_pct": 16.5,
-  "cash_pct": 83.5,
+  "date": "2026-09-23",
+  "generated_utc": "2026-09-24T23:56:47.756708",
+  "regime": "STRONG UPTREND",
+  "tqqq_pct": 17.6,
+  "sqqq_pct": 0,
+  "cash_pct": 82.4,
   "active_strategies": [
-    "Momentum Short 1 (Breakdown)",
-    "Momentum Short 2 (Failed Bounce)"
+    "Momentum Long"
   ],
-  "reason": "Momentum Short 1 (Breakdown): Mom Short 1: just below SMA250 (nan%), light short; Momentum Short 2 (Failed Bounce): Mom Short 2: failed bounce below SMA20 in downtrend",
-  "ndx_close": NaN,
-  "ndx_vs_sma20_pct": NaN,
-  "ndx_vs_sma250_pct": NaN,
-  "rsi": 65.7,
-  "equity": 109763.63,
-  "action": "Light short via SQQQ (16%)"
+  "reason": "Momentum Long: Momentum: NDX above upper BB, BB_width=5.6%",
+  "ndx_close": 30470.29,
+  "ndx_vs_sma20_pct": 3.52,
+  "ndx_vs_sma250_pct": 13.54,
+  "rsi": 65.5,
+  "equity": 109070.62,
+  "action": "Light long TQQQ (18%)"
 }

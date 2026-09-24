@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-09-23T23:49:29.414018",
-  "cash": 91613.15946758052,
+  "last_updated": "2026-09-24T23:56:47.805376",
+  "cash": 89746.98361750189,
   "starting_capital": 100000,
-  "total_equity": 109763.62774505085,
+  "total_equity": 109070.62430538687,
   "positions": {
-    "SQQQ": {
-      "shares": 523.4102036510978,
-      "avg_price": 34.67732984733581,
-      "current_price": 34.67732984733581,
-      "entry_date": "2026-09-22"
+    "TQQQ": {
+      "shares": 239.8358871079769,
+      "avg_price": 80.57026377868652,
+      "current_price": 80.57026377868652,
+      "entry_date": "2026-09-23"
     }
   },
   "equity_history": [
@@ -3469,6 +3469,25 @@
       "regime": "STRONG DOWNTREND",
       "active_strategies": "Momentum Short 1 (Breakdown), Momentum Short 2 (Failed Bounce)",
       "strategy_details": "Momentum Short 1 (Breakdown): Mom Short 1: just below SMA250 (nan%), light short; Momentum Short 2 (Failed Bounce): Mom Short 2: failed bounce below SMA20 in downtrend"
+    },
+    {
+      "date": "2026-09-23",
+      "equity": 109070.62,
+      "cash": 89746.98,
+      "tqqq_value": 19323.64,
+      "sqqq_value": 0.0,
+      "tqqq_alloc": 17.6,
+      "sqqq_alloc": 0,
+      "cash_alloc": 82.4,
+      "ndx_close": 30470.29,
+      "sma20": 29433.39,
+      "sma250": 26836.74,
+      "ext_sma20": 3.52,
+      "ext_sma250": 13.54,
+      "rsi": 65.5,
+      "regime": "STRONG UPTREND",
+      "active_strategies": "Momentum Long",
+      "strategy_details": "Momentum Long: Momentum: NDX above upper BB, BB_width=5.6%"
     }
   ],
   "trade_log": [
@@ -5339,6 +5358,48 @@
       "ndx_vs_sma20": "+nan%",
       "ndx_vs_sma250": "+nan%",
       "rsi": 65.7,
+      "execution_timing": "D+1 open (decision 10min before close)"
+    },
+    {
+      "date": "2026-09-23",
+      "ticker": "TQQQ",
+      "action": "BUY",
+      "trade_type": "NEW ENTRY",
+      "shares": 239.8359,
+      "price": 80.57,
+      "value": 19323.64,
+      "realized_pnl": 0.0,
+      "equity_after": 109482.38,
+      "allocation_after_pct": 17.6,
+      "hold_days": 0,
+      "strategy": "Momentum Long + MR Long 1 (SMA20 Pullback) (EXIT)",
+      "reasoning": "Momentum: NDX above upper BB, BB_width=5.6% | MR Long 1: extended 3.5% above SMA20, exit",
+      "regime": "STRONG UPTREND",
+      "ndx_close": 30470.29,
+      "ndx_vs_sma20": "+3.5%",
+      "ndx_vs_sma250": "+13.5%",
+      "rsi": 65.5,
+      "execution_timing": "D+1 open (decision 10min before close)"
+    },
+    {
+      "date": "2026-09-23",
+      "ticker": "SQQQ",
+      "action": "SELL",
+      "trade_type": "EXIT",
+      "shares": 523.4102,
+      "price": 33.35,
+      "value": 17457.46,
+      "realized_pnl": -693.0,
+      "equity_after": 109070.62,
+      "allocation_after_pct": 0.0,
+      "hold_days": 1,
+      "strategy": "Aggregated",
+      "reasoning": "Position rebalance",
+      "regime": "STRONG UPTREND",
+      "ndx_close": 30470.29,
+      "ndx_vs_sma20": "+3.5%",
+      "ndx_vs_sma250": "+13.5%",
+      "rsi": 65.5,
       "execution_timing": "D+1 open (decision 10min before close)"
     }
   ],
@@ -7708,6 +7769,19 @@
       "rsi": 65.7,
       "active_strategies": "Momentum Short 1 (Breakdown), Momentum Short 2 (Failed Bounce)",
       "strategy_details": "Momentum Short 1 (Breakdown): Mom Short 1: just below SMA250 (nan%), light short; Momentum Short 2 (Failed Bounce): Mom Short 2: failed bounce below SMA20 in downtrend"
+    },
+    {
+      "date": "2026-09-23",
+      "tqqq_weight": 0.1765,
+      "sqqq_weight": 0,
+      "cash_weight": 0.8235,
+      "regime": "STRONG UPTREND",
+      "ndx_close": 30470.29,
+      "ext_sma20": 3.52,
+      "ext_sma250": 13.54,
+      "rsi": 65.5,
+      "active_strategies": "Momentum Long",
+      "strategy_details": "Momentum Long: Momentum: NDX above upper BB, BB_width=5.6%"
     }
   ],
   "regime_history": [
@@ -7782,6 +7856,12 @@
       "regime": "STRONG DOWNTREND",
       "ndx_close": NaN,
       "ext_sma250": NaN
+    },
+    {
+      "date": "2026-09-23",
+      "regime": "STRONG UPTREND",
+      "ndx_close": 30470.29,
+      "ext_sma250": 13.54
     }
   ]
 }
