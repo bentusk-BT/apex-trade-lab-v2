@@ -182,3 +182,4 @@ date,equity,cash,tqqq_value,sqqq_value,tqqq_alloc,sqqq_alloc,cash_alloc,ndx_clos
 2026-09-21,,100792.85,,0.0,14.7,0.0,85.3,30482.35,29361.03,26813.18,3.82,13.68,65.7,STRONG UPTREND,Momentum Long,"Momentum Long: Momentum: NDX above upper BB, BB_width=4.7%"
 2026-09-22,109763.63,91613.16,0.0,18150.47,0.0,16.5,83.5,,,,,,65.7,STRONG DOWNTREND,"Momentum Short 1 (Breakdown), Momentum Short 2 (Failed Bounce)","Momentum Short 1 (Breakdown): Mom Short 1: just below SMA250 (nan%), light short; Momentum Short 2 (Failed Bounce): Mom Short 2: failed bounce below SMA20 in downtrend"
 2026-09-23,109070.62,89746.98,19323.64,0.0,17.6,0.0,82.4,30470.29,29433.39,26836.74,3.52,13.54,65.5,STRONG UPTREND,Momentum Long,"Momentum Long: Momentum: NDX above upper BB, BB_width=5.6%"
+2026-09-24,108145.18,100000.69,8144.5,0.0,7.5,0.0,92.5,30478.86,29572.26,26885.98,3.07,13.36,63.3,STRONG UPTREND,Momentum Long,"Momentum Long: Momentum: holding above SMA20, reduced size"
