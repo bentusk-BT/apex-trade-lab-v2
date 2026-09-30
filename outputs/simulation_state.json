@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-29T01:07:07.414257",
+  "last_updated": "2026-09-30T00:38:23.352502",
   "cash": 100000.6876459514,
   "starting_capital": 100000,
   "total_equity": NaN,
@@ -3542,6 +3542,25 @@
       "ext_sma20": 2.07,
       "ext_sma250": 12.42,
       "rsi": 58.5,
+      "regime": "STRONG UPTREND",
+      "active_strategies": "Momentum Long",
+      "strategy_details": "Momentum Long: Momentum: holding above SMA20, reduced size"
+    },
+    {
+      "date": "2026-09-29",
+      "equity": NaN,
+      "cash": 100000.69,
+      "tqqq_value": NaN,
+      "sqqq_value": 0.0,
+      "tqqq_alloc": 7.5,
+      "sqqq_alloc": 0,
+      "cash_alloc": 92.5,
+      "ndx_close": 30339.33,
+      "sma20": 29706.88,
+      "sma250": 26955.7,
+      "ext_sma20": 2.13,
+      "ext_sma250": 12.55,
+      "rsi": 59.3,
       "regime": "STRONG UPTREND",
       "active_strategies": "Momentum Long",
       "strategy_details": "Momentum Long: Momentum: holding above SMA20, reduced size"
@@ -7897,6 +7916,19 @@
       "ext_sma20": 2.07,
       "ext_sma250": 12.42,
       "rsi": 58.5,
+      "active_strategies": "Momentum Long",
+      "strategy_details": "Momentum Long: Momentum: holding above SMA20, reduced size"
+    },
+    {
+      "date": "2026-09-29",
+      "tqqq_weight": 0.075,
+      "sqqq_weight": 0,
+      "cash_weight": 0.925,
+      "regime": "STRONG UPTREND",
+      "ndx_close": 30339.33,
+      "ext_sma20": 2.13,
+      "ext_sma250": 12.55,
+      "rsi": 59.3,
       "active_strategies": "Momentum Long",
       "strategy_details": "Momentum Long: Momentum: holding above SMA20, reduced size"
     }
