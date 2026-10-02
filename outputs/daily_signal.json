@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-30",
-  "generated_utc": "2026-10-01T00:39:50.315374",
+  "date": "2026-10-01",
+  "generated_utc": "2026-10-02T00:58:37.906240",
   "regime": "STRONG UPTREND",
   "tqqq_pct": 7.5,
   "sqqq_pct": 0,
@@ -9,10 +9,10 @@
     "Momentum Long"
   ],
   "reason": "Momentum Long: Momentum: holding above SMA20, reduced size",
-  "ndx_close": 30408.5,
-  "ndx_vs_sma20_pct": 2.13,
-  "ndx_vs_sma250_pct": 12.72,
-  "rsi": 60.2,
+  "ndx_close": 30501.56,
+  "ndx_vs_sma20_pct": 2.21,
+  "ndx_vs_sma250_pct": 12.97,
+  "rsi": 61.4,
   "equity": NaN,
   "action": "Light long TQQQ (8%)"
 }
