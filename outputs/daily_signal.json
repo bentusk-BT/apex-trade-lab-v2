@@ -1,19 +1,18 @@
 {
-  "date": "2026-10-13",
-  "generated_utc": "2026-10-15T00:00:01.005077",
+  "date": "2026-10-14",
+  "generated_utc": "2026-10-15T23:44:12.066066",
   "regime": "STRONG UPTREND",
-  "tqqq_pct": 19.5,
+  "tqqq_pct": 8.0,
   "sqqq_pct": 0,
-  "cash_pct": 80.5,
+  "cash_pct": 92.0,
   "active_strategies": [
-    "Momentum Long",
-    "MR Long 1 (SMA20 Pullback)"
+    "MR Long 2 (Deep Pullback)"
   ],
-  "reason": "Momentum Long: Momentum: holding above SMA20, reduced size; MR Long 1 (SMA20 Pullback): MR Long 1: pullback to SMA20, ext=0.3%",
-  "ndx_close": 30569.48,
-  "ndx_vs_sma20_pct": 0.32,
-  "ndx_vs_sma250_pct": 12.41,
-  "rsi": 54.7,
-  "equity": NaN,
-  "action": "Light long TQQQ (20%)"
+  "reason": "MR Long 2 (Deep Pullback): MR Long 2: recovering below middle BB, ext=-1.9%",
+  "ndx_close": 29950.82,
+  "ndx_vs_sma20_pct": -1.87,
+  "ndx_vs_sma250_pct": 10.05,
+  "rsi": 44.6,
+  "equity": 107571.66,
+  "action": "Light long TQQQ (8%)"
 }

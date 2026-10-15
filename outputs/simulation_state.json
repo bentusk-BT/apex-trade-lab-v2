@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-10-15T00:00:01.065436",
-  "cash": 87433.09634726036,
+  "last_updated": "2026-10-15T23:44:12.096522",
+  "cash": 99025.40582184868,
   "starting_capital": 100000,
-  "total_equity": NaN,
+  "total_equity": 107571.65535547891,
   "positions": {
     "TQQQ": {
-      "shares": 261.6705626607921,
+      "shares": 111.04577657179544,
       "avg_price": 80.71890297452049,
-      "current_price": NaN,
+      "current_price": 76.9615,
       "entry_date": "2026-09-23"
     }
   },
@@ -3754,6 +3754,25 @@
       "regime": "STRONG UPTREND",
       "active_strategies": "Momentum Long, MR Long 1 (SMA20 Pullback)",
       "strategy_details": "Momentum Long: Momentum: holding above SMA20, reduced size; MR Long 1 (SMA20 Pullback): MR Long 1: pullback to SMA20, ext=0.3%"
+    },
+    {
+      "date": "2026-10-14",
+      "equity": 107571.66,
+      "cash": 99025.41,
+      "tqqq_value": 8546.25,
+      "sqqq_value": 0.0,
+      "tqqq_alloc": 8.0,
+      "sqqq_alloc": 0,
+      "cash_alloc": 92.0,
+      "ndx_close": 29950.82,
+      "sma20": 30522.61,
+      "sma250": 27216.28,
+      "ext_sma20": -1.87,
+      "ext_sma250": 10.05,
+      "rsi": 44.6,
+      "regime": "STRONG UPTREND",
+      "active_strategies": "MR Long 2 (Deep Pullback)",
+      "strategy_details": "MR Long 2 (Deep Pullback): MR Long 2: recovering below middle BB, ext=-1.9%"
     }
   ],
   "trade_log": [
@@ -5708,6 +5727,27 @@
       "ndx_vs_sma20": "+0.9%",
       "ndx_vs_sma250": "+12.9%",
       "rsi": 56.5,
+      "execution_timing": "D+1 open (decision 10min before close)"
+    },
+    {
+      "date": "2026-10-14",
+      "ticker": "TQQQ",
+      "action": "SELL",
+      "trade_type": "REDUCE",
+      "shares": 150.6248,
+      "price": 76.96,
+      "value": 11592.31,
+      "realized_pnl": -565.96,
+      "equity_after": 107571.66,
+      "allocation_after_pct": 7.9,
+      "hold_days": 0,
+      "strategy": "Momentum Long (EXIT) + MR Long 2 (Deep Pullback)",
+      "reasoning": "Momentum: closed below SMA20 | MR Long 2: recovering below middle BB, ext=-1.9%",
+      "regime": "STRONG UPTREND",
+      "ndx_close": 29950.82,
+      "ndx_vs_sma20": "-1.9%",
+      "ndx_vs_sma250": "+10.0%",
+      "rsi": 44.6,
       "execution_timing": "D+1 open (decision 10min before close)"
     }
   ],
@@ -8272,6 +8312,19 @@
       "rsi": 54.7,
       "active_strategies": "Momentum Long, MR Long 1 (SMA20 Pullback)",
       "strategy_details": "Momentum Long: Momentum: holding above SMA20, reduced size; MR Long 1 (SMA20 Pullback): MR Long 1: pullback to SMA20, ext=0.3%"
+    },
+    {
+      "date": "2026-10-14",
+      "tqqq_weight": 0.08,
+      "sqqq_weight": 0,
+      "cash_weight": 0.92,
+      "regime": "STRONG UPTREND",
+      "ndx_close": 29950.82,
+      "ext_sma20": -1.87,
+      "ext_sma250": 10.05,
+      "rsi": 44.6,
+      "active_strategies": "MR Long 2 (Deep Pullback)",
+      "strategy_details": "MR Long 2 (Deep Pullback): MR Long 2: recovering below middle BB, ext=-1.9%"
     }
   ],
   "regime_history": [
