@@ -1,5 +1,4 @@
 date,tqqq_weight,sqqq_weight,cash_weight,regime,ndx_close,ext_sma20,ext_sma250,rsi,active_strategies,strategy_details
-2025-12-31,0.3432,0.0,0.6568,STRONG UPTREND,25249.85,-0.72,11.93,48.0,MR Long 1 (SMA20 Pullback),"MR Long 1 (SMA20 Pullback): MR Long 1: pullback to SMA20, ext=-0.7%"
 2026-01-02,0.3619,0.0,0.6381,STRONG UPTREND,25206.17,-0.81,11.66,47.1,MR Long 1 (SMA20 Pullback),"MR Long 1 (SMA20 Pullback): MR Long 1: pullback to SMA20, ext=-0.8%"
 2026-01-05,0.2012,0.0,0.7988,STRONG UPTREND,25401.32,-0.01,12.44,51.5,MR Long 1 (SMA20 Pullback),"MR Long 1 (SMA20 Pullback): MR Long 1: pullback to SMA20, ext=-0.0%"
 2026-01-06,0.195,0.0,0.805,STRONG UPTREND,25639.71,0.94,13.41,56.3,"Momentum Long, MR Long 1 (SMA20 Pullback)","Momentum Long: Momentum: holding above SMA20, reduced size; MR Long 1 (SMA20 Pullback): MR Long 1: pullback to SMA20, ext=0.9%"
