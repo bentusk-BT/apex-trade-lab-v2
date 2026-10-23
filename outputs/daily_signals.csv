@@ -1,6 +1,4 @@
 date,tqqq_weight,sqqq_weight,cash_weight,regime,ndx_close,ext_sma20,ext_sma250,rsi,active_strategies,strategy_details
-2026-01-02,0.3619,0.0,0.6381,STRONG UPTREND,25206.17,-0.81,11.66,47.1,MR Long 1 (SMA20 Pullback),"MR Long 1 (SMA20 Pullback): MR Long 1: pullback to SMA20, ext=-0.8%"
-2026-01-05,0.2012,0.0,0.7988,STRONG UPTREND,25401.32,-0.01,12.44,51.5,MR Long 1 (SMA20 Pullback),"MR Long 1 (SMA20 Pullback): MR Long 1: pullback to SMA20, ext=-0.0%"
 2026-01-06,0.195,0.0,0.805,STRONG UPTREND,25639.71,0.94,13.41,56.3,"Momentum Long, MR Long 1 (SMA20 Pullback)","Momentum Long: Momentum: holding above SMA20, reduced size; MR Long 1 (SMA20 Pullback): MR Long 1: pullback to SMA20, ext=0.9%"
 2026-01-07,0.195,0.0,0.805,STRONG UPTREND,25653.9,0.99,13.39,56.5,"Momentum Long, MR Long 1 (SMA20 Pullback)","Momentum Long: Momentum: holding above SMA20, reduced size; MR Long 1 (SMA20 Pullback): MR Long 1: pullback to SMA20, ext=1.0%"
 2026-01-08,0.195,0.0,0.805,STRONG UPTREND,25507.1,0.45,12.65,52.9,"Momentum Long, MR Long 1 (SMA20 Pullback)","Momentum Long: Momentum: holding above SMA20, reduced size; MR Long 1 (SMA20 Pullback): MR Long 1: pullback to SMA20, ext=0.4%"
@@ -201,3 +199,4 @@ date,tqqq_weight,sqqq_weight,cash_weight,regime,ndx_close,ext_sma20,ext_sma250,r
 2026-10-19,0.08,0.0,0.92,STRONG UPTREND,29529.34,-3.11,8.28,41.2,MR Long 2 (Deep Pullback),"MR Long 2 (Deep Pullback): MR Long 2: recovering below middle BB, ext=-3.1%"
 2026-10-20,0.08,0.0,0.92,STRONG UPTREND,29490.28,-3.04,8.06,40.7,MR Long 2 (Deep Pullback),"MR Long 2 (Deep Pullback): MR Long 2: recovering below middle BB, ext=-3.0%"
 2026-10-21,0.08,0.0,0.92,STRONG UPTREND,29822.52,-1.84,9.2,46.2,MR Long 2 (Deep Pullback),"MR Long 2 (Deep Pullback): MR Long 2: recovering below middle BB, ext=-1.8%"
+2026-10-22,0.1778,0.0,0.8222,STRONG UPTREND,28958.69,-4.45,5.98,36.7,MR Long 2 (Deep Pullback),"MR Long 2 (Deep Pullback): MR Long 2: deep pullback below lower BB, ext=-4.4%"
