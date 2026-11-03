@@ -1,14 +1,5 @@
 [
   {
-    "date": "2026-07-27",
-    "type": "daily",
-    "generated": "2026-07-28T22:32:24.715832",
-    "twitter": "\ud83d\udfe2 APEX TRADE LAB Daily Signal \u2014 2026-07-27\n\nRegime: STRONG UPTREND\nAction: Light long TQQQ (8%)\n\nTQQQ: 8% | SQQQ: 0% | Cash: 92%\nNDX: 28,039 | RSI: 38\n\nPaper trading simulation \u2014 not financial advice.\n#TQQQ #SQQQ #AlgoTrading #SystematicTrading #PaperTrading",
-    "facebook": "\u26a1 APEX TRADE LAB \u2014 Daily Signal Update\n\ud83d\udcc5 2026-07-27\n\n\ud83d\udfe2 Market Regime: STRONG UPTREND\n\ud83d\udcca Action: Light long TQQQ (8%)\n\nPortfolio Allocation:\n  \u2022 TQQQ (3x Long): 8%\n  \u2022 SQQQ (3x Short): 0%\n  \u2022 Cash: 92%\n\nNDX closed at 28,039 | RSI: 38\n\nThis is a paper trading simulation for educational purposes.\nFull dashboard: [link in bio]\n\n#TQQQ #SQQQ #AlgoTrading #SystematicTrading #PaperTrading",
-    "telegram": "\u26a1 <b>APEX TRADE LAB</b> \u2014 2026-07-27\n\n\ud83d\udfe2 <b>STRONG UPTREND</b>\nAction: Light long TQQQ (8%)\n\nTQQQ: 8% | SQQQ: 0% | Cash: 92%\nNDX: 28,039 | RSI: 38\n\n<i>Paper trading only \u2014 not advice.</i>",
-    "discord": "\ud83d\udfe2 APEX TRADE LAB Daily Signal \u2014 2026-07-27\n\nRegime: STRONG UPTREND\nAction: Light long TQQQ (8%)\n\nTQQQ: 8% | SQQQ: 0% | Cash: 92%\nNDX: 28,039 | RSI: 38\n\nPaper trading simulation \u2014 not financial advice.\n#TQQQ #SQQQ #AlgoTrading #SystematicTrading #PaperTrading"
-  },
-  {
     "date": "2026-07-28",
     "type": "monthly",
     "generated": "2026-07-28T22:32:24.715863",
@@ -808,5 +799,14 @@
     "facebook": "\ud83d\udcc8 APEX TRADE LAB \u2014 Monthly Performance Report\n\nHere is how the 7-strategy TQQQ/SQQQ system performed:\n\n\ud83d\udcb0 Portfolio: $nan\n\ud83d\udcca Total Return: +nan%\n\ud83d\udcc8 CAGR: +nan%\n\u2696\ufe0f Sharpe Ratio: 0.92\n\ud83d\udcc9 Max Drawdown: -5.9%\n\ud83c\udfaf Win Rate: 44%\n\ud83d\udd04 Total Trades: 96\n\nThe system runs autonomously \u2014 making one decision at market close each day.\n\nThis is a paper trading simulation for learning systematic trading.\nFull dashboard: [link in bio]\n\n#TQQQ #SQQQ #AlgoTrading #SystematicTrading #PaperTrading",
     "telegram": "\ud83d\udcca APEX TRADE LAB \u2014 Monthly Report\n2026-10-31\n\nTotal Return: +nan%\nCAGR: +nan%\nSharpe: 0.92\nMax DD: -5.9%\nWin Rate: 44%\nPortfolio: $nan\n\nFull report + live dashboard: [link]\n#TQQQ #SQQQ #AlgoTrading #SystematicTrading #PaperTrading",
     "discord": "\ud83d\udcca APEX TRADE LAB \u2014 Monthly Report\n2026-10-31\n\nTotal Return: +nan%\nCAGR: +nan%\nSharpe: 0.92\nMax DD: -5.9%\nWin Rate: 44%\nPortfolio: $nan\n\nFull report + live dashboard: [link]\n#TQQQ #SQQQ #AlgoTrading #SystematicTrading #PaperTrading"
+  },
+  {
+    "date": "2026-11-02",
+    "type": "daily",
+    "generated": "2026-11-03T02:59:14.428381",
+    "twitter": "\ud83d\udfe2 APEX TRADE LAB Daily Signal \u2014 2026-11-02\n\nRegime: UPTREND\nAction: Light long TQQQ (28%)\n\nTQQQ: 28% | SQQQ: 0% | Cash: 72%\nNDX: 27,990 | RSI: 32\n\nPaper trading simulation \u2014 not financial advice.\n#TQQQ #SQQQ #AlgoTrading #SystematicTrading #PaperTrading",
+    "facebook": "\u26a1 APEX TRADE LAB \u2014 Daily Signal Update\n\ud83d\udcc5 2026-11-02\n\n\ud83d\udfe2 Market Regime: UPTREND\n\ud83d\udcca Action: Light long TQQQ (28%)\n\nPortfolio Allocation:\n  \u2022 TQQQ (3x Long): 28%\n  \u2022 SQQQ (3x Short): 0%\n  \u2022 Cash: 72%\n\nNDX closed at 27,990 | RSI: 32\n\nThis is a paper trading simulation for educational purposes.\nFull dashboard: [link in bio]\n\n#TQQQ #SQQQ #AlgoTrading #SystematicTrading #PaperTrading",
+    "telegram": "\u26a1 <b>APEX TRADE LAB</b> \u2014 2026-11-02\n\n\ud83d\udfe2 <b>UPTREND</b>\nAction: Light long TQQQ (28%)\n\nTQQQ: 28% | SQQQ: 0% | Cash: 72%\nNDX: 27,990 | RSI: 32\n\n<i>Paper trading only \u2014 not advice.</i>",
+    "discord": "\ud83d\udfe2 APEX TRADE LAB Daily Signal \u2014 2026-11-02\n\nRegime: UPTREND\nAction: Light long TQQQ (28%)\n\nTQQQ: 28% | SQQQ: 0% | Cash: 72%\nNDX: 27,990 | RSI: 32\n\nPaper trading simulation \u2014 not financial advice.\n#TQQQ #SQQQ #AlgoTrading #SystematicTrading #PaperTrading"
   }
 ]

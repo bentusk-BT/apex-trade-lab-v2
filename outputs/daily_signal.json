@@ -1,18 +1,19 @@
 {
-  "date": "2026-10-30",
-  "generated_utc": "2026-10-31T00:55:27.993131",
+  "date": "2026-11-02",
+  "generated_utc": "2026-11-03T02:59:14.428206",
   "regime": "UPTREND",
-  "tqqq_pct": 8.0,
+  "tqqq_pct": 27.5,
   "sqqq_pct": 0,
-  "cash_pct": 92.0,
+  "cash_pct": 72.5,
   "active_strategies": [
-    "MR Long 2 (Deep Pullback)"
+    "MR Long 2 (Deep Pullback)",
+    "MR Long 3 (SMA250 Bounce)"
   ],
-  "reason": "MR Long 2 (Deep Pullback): MR Long 2: recovering below middle BB, ext=-5.2%",
-  "ndx_close": 28384.85,
-  "ndx_vs_sma20_pct": -5.17,
-  "ndx_vs_sma250_pct": 3.57,
-  "rsi": 34.9,
-  "equity": NaN,
-  "action": "Light long TQQQ (8%)"
+  "reason": "MR Long 2 (Deep Pullback): MR Long 2: deep pullback below lower BB, ext=-6.0%; MR Long 3 (SMA250 Bounce): MR Long 3: near SMA250 but no reversal candle",
+  "ndx_close": 27989.82,
+  "ndx_vs_sma20_pct": -6.01,
+  "ndx_vs_sma250_pct": 2.09,
+  "rsi": 32.0,
+  "equity": 105493.39,
+  "action": "Light long TQQQ (28%)"
 }
