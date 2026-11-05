@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-04T01:31:48.146510",
+  "last_updated": "2026-11-05T01:35:20.501124",
   "cash": 76611.17816945822,
   "starting_capital": 100000,
   "total_equity": NaN,
@@ -4039,6 +4039,25 @@
       "regime": "UPTREND",
       "active_strategies": "MR Long 2 (Deep Pullback), MR Long 3 (SMA250 Bounce)",
       "strategy_details": "MR Long 2 (Deep Pullback): MR Long 2: recovering below middle BB, ext=-4.9%; MR Long 3 (SMA250 Bounce): MR Long 3: bounce near SMA250, ext250=2.7%"
+    },
+    {
+      "date": "2026-11-04",
+      "equity": NaN,
+      "cash": 76611.18,
+      "tqqq_value": NaN,
+      "sqqq_value": 0.0,
+      "tqqq_alloc": 8.0,
+      "sqqq_alloc": 0,
+      "cash_alloc": 92.0,
+      "ndx_close": 28437.17,
+      "sma20": 29490.4,
+      "sma250": 27437.72,
+      "ext_sma20": -3.57,
+      "ext_sma250": 3.64,
+      "rsi": 38.5,
+      "regime": "UPTREND",
+      "active_strategies": "MR Long 2 (Deep Pullback)",
+      "strategy_details": "MR Long 2 (Deep Pullback): MR Long 2: recovering below middle BB, ext=-3.6%"
     }
   ],
   "trade_log": [
@@ -6081,19 +6100,6 @@
     }
   ],
   "signal_log": [
-    {
-      "date": "2026-01-20",
-      "tqqq_weight": 0.12,
-      "sqqq_weight": 0,
-      "cash_weight": 0.88,
-      "regime": "STRONG UPTREND",
-      "ndx_close": 24987.57,
-      "ext_sma20": -2.04,
-      "ext_sma250": 9.75,
-      "rsi": 39.9,
-      "active_strategies": "MR Long 2 (Deep Pullback)",
-      "strategy_details": "MR Long 2 (Deep Pullback): MR Long 2: deep pullback below lower BB, ext=-2.0%"
-    },
     {
       "date": "2026-01-21",
       "tqqq_weight": 0.3418,
@@ -8680,6 +8686,19 @@
       "rsi": 34.8,
       "active_strategies": "MR Long 2 (Deep Pullback), MR Long 3 (SMA250 Bounce)",
       "strategy_details": "MR Long 2 (Deep Pullback): MR Long 2: recovering below middle BB, ext=-4.9%; MR Long 3 (SMA250 Bounce): MR Long 3: bounce near SMA250, ext250=2.7%"
+    },
+    {
+      "date": "2026-11-04",
+      "tqqq_weight": 0.08,
+      "sqqq_weight": 0,
+      "cash_weight": 0.92,
+      "regime": "UPTREND",
+      "ndx_close": 28437.17,
+      "ext_sma20": -3.57,
+      "ext_sma250": 3.64,
+      "rsi": 38.5,
+      "active_strategies": "MR Long 2 (Deep Pullback)",
+      "strategy_details": "MR Long 2 (Deep Pullback): MR Long 2: recovering below middle BB, ext=-3.6%"
     }
   ],
   "regime_history": [
