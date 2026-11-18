@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-11-17T04:03:22.639810",
+  "last_updated": "2026-11-18T03:00:05.913047",
   "cash": 98854.5223521034,
   "starting_capital": 100000,
-  "total_equity": 101878.95658707639,
+  "total_equity": 101684.89481571446,
   "positions": {
     "TQQQ": {
       "shares": 54.62984729952484,
       "avg_price": 66.78942215019795,
-      "current_price": 55.362304389953614,
+      "current_price": 51.810001373291016,
       "entry_date": "2026-09-23"
     }
   },
@@ -4210,6 +4210,25 @@
       "regime": "DOWNTREND",
       "active_strategies": "MR Long 3 (SMA250 Bounce), Momentum Short 1 (Breakdown)",
       "strategy_details": "MR Long 3 (SMA250 Bounce): MR Long 3: near SMA250 but no reversal candle; Momentum Short 1 (Breakdown): Mom Short 1: just below SMA250 (-1.2%), light short"
+    },
+    {
+      "date": "2026-11-17",
+      "equity": 101684.89,
+      "cash": 98854.52,
+      "tqqq_value": 2830.37,
+      "sqqq_value": 0.0,
+      "tqqq_alloc": 3.0,
+      "sqqq_alloc": 0.0,
+      "cash_alloc": 97.0,
+      "ndx_close": 27001.79,
+      "sma20": 28347.28,
+      "sma250": 27525.39,
+      "ext_sma20": -4.75,
+      "ext_sma250": -1.9,
+      "rsi": 36.3,
+      "regime": "DOWNTREND",
+      "active_strategies": "MR Long 3 (SMA250 Bounce), Momentum Short 1 (Breakdown)",
+      "strategy_details": "MR Long 3 (SMA250 Bounce): MR Long 3: near SMA250 but no reversal candle; Momentum Short 1 (Breakdown): Mom Short 1: just below SMA250 (-1.9%), light short"
     }
   ],
   "trade_log": [
@@ -6273,19 +6292,6 @@
     }
   ],
   "signal_log": [
-    {
-      "date": "2026-02-02",
-      "tqqq_weight": 0.195,
-      "sqqq_weight": 0,
-      "cash_weight": 0.805,
-      "regime": "STRONG UPTREND",
-      "ndx_close": 25738.61,
-      "ext_sma20": 0.48,
-      "ext_sma250": 12.31,
-      "rsi": 53.5,
-      "active_strategies": "Momentum Long, MR Long 1 (SMA20 Pullback)",
-      "strategy_details": "Momentum Long: Momentum: holding above SMA20, reduced size; MR Long 1 (SMA20 Pullback): MR Long 1: pullback to SMA20, ext=0.5%"
-    },
     {
       "date": "2026-02-03",
       "tqqq_weight": 0.08,
@@ -8872,6 +8878,19 @@
       "rsi": 37.6,
       "active_strategies": "MR Long 3 (SMA250 Bounce), Momentum Short 1 (Breakdown)",
       "strategy_details": "MR Long 3 (SMA250 Bounce): MR Long 3: near SMA250 but no reversal candle; Momentum Short 1 (Breakdown): Mom Short 1: just below SMA250 (-1.2%), light short"
+    },
+    {
+      "date": "2026-11-17",
+      "tqqq_weight": 0.03,
+      "sqqq_weight": 0.0,
+      "cash_weight": 0.97,
+      "regime": "DOWNTREND",
+      "ndx_close": 27001.79,
+      "ext_sma20": -4.75,
+      "ext_sma250": -1.9,
+      "rsi": 36.3,
+      "active_strategies": "MR Long 3 (SMA250 Bounce), Momentum Short 1 (Breakdown)",
+      "strategy_details": "MR Long 3 (SMA250 Bounce): MR Long 3: near SMA250 but no reversal candle; Momentum Short 1 (Breakdown): Mom Short 1: just below SMA250 (-1.9%), light short"
     }
   ],
   "regime_history": [
