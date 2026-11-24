@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-11-21T02:39:43.386634",
-  "cash": 89716.64855521312,
+  "last_updated": "2026-11-24T05:24:06.268633",
+  "cash": 97422.13209385809,
   "starting_capital": 100000,
-  "total_equity": 103935.2515626659,
+  "total_equity": 101633.64489055349,
   "positions": {
     "TQQQ": {
       "shares": 54.62984729952484,
       "avg_price": 66.78942215019795,
-      "current_price": 41.20000076293945,
+      "current_price": 49.099998474121094,
       "entry_date": "2026-09-23"
     },
     "SQQQ": {
-      "shares": 207.81130795838865,
+      "shares": 34.41188451032832,
       "avg_price": 43.97197576332092,
-      "current_price": 57.59000015258789,
+      "current_price": 44.43776908493042,
       "entry_date": "2026-11-19"
     }
   },
@@ -4292,6 +4292,25 @@
       "regime": "STRONG DOWNTREND",
       "active_strategies": "Momentum Short 1 (Breakdown)",
       "strategy_details": "Momentum Short 1 (Breakdown): Mom Short 1: breakdown below SMA250 + lower BB, ext250=-9.1%"
+    },
+    {
+      "date": "2026-11-23",
+      "equity": 101633.64,
+      "cash": 97422.13,
+      "tqqq_value": 2682.33,
+      "sqqq_value": 1529.19,
+      "tqqq_alloc": 0.0,
+      "sqqq_alloc": 1.5,
+      "cash_alloc": 98.5,
+      "ndx_close": 26746.1,
+      "sma20": 27767.1,
+      "sma250": 27555.79,
+      "ext_sma20": -3.68,
+      "ext_sma250": -2.94,
+      "rsi": 42.0,
+      "regime": "DOWNTREND",
+      "active_strategies": "MR Long 3 (SMA250 Bounce), Momentum Short 1 (Breakdown)",
+      "strategy_details": "MR Long 3 (SMA250 Bounce): MR Long 3: near SMA250 but no reversal candle; Momentum Short 1 (Breakdown): Mom Short 1: below SMA250 (-2.9%), maintaining short"
     }
   ],
   "trade_log": [
@@ -6373,22 +6392,30 @@
       "ndx_vs_sma250": "-3.7%",
       "rsi": 33.8,
       "execution_timing": "D+1 open (decision 10min before close)"
+    },
+    {
+      "date": "2026-11-23",
+      "ticker": "SQQQ",
+      "action": "SELL",
+      "trade_type": "REDUCE",
+      "shares": 173.3994,
+      "price": 44.44,
+      "value": 7705.48,
+      "realized_pnl": 80.77,
+      "equity_after": 101633.64,
+      "allocation_after_pct": 1.5,
+      "hold_days": 0,
+      "strategy": "Momentum Short 1 (Breakdown)",
+      "reasoning": "Mom Short 1: below SMA250 (-2.9%), maintaining short",
+      "regime": "DOWNTREND",
+      "ndx_close": 26746.1,
+      "ndx_vs_sma20": "-3.7%",
+      "ndx_vs_sma250": "-2.9%",
+      "rsi": 42.0,
+      "execution_timing": "D+1 open (decision 10min before close)"
     }
   ],
   "signal_log": [
-    {
-      "date": "2026-02-06",
-      "tqqq_weight": 0.08,
-      "sqqq_weight": 0,
-      "cash_weight": 0.92,
-      "regime": "STRONG UPTREND",
-      "ndx_close": 25075.77,
-      "ext_sma20": -1.66,
-      "ext_sma250": 9.17,
-      "rsi": 44.7,
-      "active_strategies": "MR Long 2 (Deep Pullback)",
-      "strategy_details": "MR Long 2 (Deep Pullback): MR Long 2: recovering below middle BB, ext=-1.7%"
-    },
     {
       "date": "2026-02-09",
       "tqqq_weight": 0.3618,
@@ -8975,6 +9002,19 @@
       "rsi": 26.5,
       "active_strategies": "Momentum Short 1 (Breakdown)",
       "strategy_details": "Momentum Short 1 (Breakdown): Mom Short 1: breakdown below SMA250 + lower BB, ext250=-9.1%"
+    },
+    {
+      "date": "2026-11-23",
+      "tqqq_weight": 0.0,
+      "sqqq_weight": 0.015,
+      "cash_weight": 0.985,
+      "regime": "DOWNTREND",
+      "ndx_close": 26746.1,
+      "ext_sma20": -3.68,
+      "ext_sma250": -2.94,
+      "rsi": 42.0,
+      "active_strategies": "MR Long 3 (SMA250 Bounce), Momentum Short 1 (Breakdown)",
+      "strategy_details": "MR Long 3 (SMA250 Bounce): MR Long 3: near SMA250 but no reversal candle; Momentum Short 1 (Breakdown): Mom Short 1: below SMA250 (-2.9%), maintaining short"
     }
   ],
   "regime_history": [
@@ -9085,6 +9125,12 @@
       "regime": "STRONG DOWNTREND",
       "ndx_close": 25028.98,
       "ext_sma250": -9.15
+    },
+    {
+      "date": "2026-11-23",
+      "regime": "DOWNTREND",
+      "ndx_close": 26746.1,
+      "ext_sma250": -2.94
     }
   ]
 }
