@@ -1,19 +1,18 @@
 {
-  "date": "2026-11-23",
-  "generated_utc": "2026-11-24T05:24:06.218422",
+  "date": "2026-11-24",
+  "generated_utc": "2026-11-25T04:25:34.138343",
   "regime": "DOWNTREND",
-  "tqqq_pct": 0.0,
-  "sqqq_pct": 1.5,
-  "cash_pct": 98.5,
+  "tqqq_pct": 0,
+  "sqqq_pct": 9.0,
+  "cash_pct": 91.0,
   "active_strategies": [
-    "MR Long 3 (SMA250 Bounce)",
     "Momentum Short 1 (Breakdown)"
   ],
-  "reason": "MR Long 3 (SMA250 Bounce): MR Long 3: near SMA250 but no reversal candle; Momentum Short 1 (Breakdown): Mom Short 1: below SMA250 (-2.9%), maintaining short",
-  "ndx_close": 26746.1,
-  "ndx_vs_sma20_pct": -3.68,
-  "ndx_vs_sma250_pct": -2.94,
-  "rsi": 42.0,
-  "equity": 101633.64,
-  "action": "Light short via SQQQ (2%)"
+  "reason": "Momentum Short 1 (Breakdown): Mom Short 1: below SMA250 (-4.9%), maintaining short",
+  "ndx_close": 26214.17,
+  "ndx_vs_sma20_pct": -5.0,
+  "ndx_vs_sma250_pct": -4.89,
+  "rsi": 39.2,
+  "equity": 101606.34,
+  "action": "Light short via SQQQ (9%)"
 }
