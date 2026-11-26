@@ -1,18 +1,18 @@
 {
-  "date": "2026-11-24",
-  "generated_utc": "2026-11-25T04:25:34.138343",
-  "regime": "DOWNTREND",
+  "date": "2026-11-25",
+  "generated_utc": "2026-11-26T03:40:58.322856",
+  "regime": "STRONG DOWNTREND",
   "tqqq_pct": 0,
   "sqqq_pct": 9.0,
   "cash_pct": 91.0,
   "active_strategies": [
     "Momentum Short 1 (Breakdown)"
   ],
-  "reason": "Momentum Short 1 (Breakdown): Mom Short 1: below SMA250 (-4.9%), maintaining short",
-  "ndx_close": 26214.17,
-  "ndx_vs_sma20_pct": -5.0,
-  "ndx_vs_sma250_pct": -4.89,
-  "rsi": 39.2,
-  "equity": 101606.34,
+  "reason": "Momentum Short 1 (Breakdown): Mom Short 1: below SMA250 (-5.5%), maintaining short",
+  "ndx_close": 26046.9,
+  "ndx_vs_sma20_pct": -4.96,
+  "ndx_vs_sma250_pct": -5.5,
+  "rsi": 38.4,
+  "equity": 101809.77,
   "action": "Light short via SQQQ (9%)"
 }
