@@ -199,3 +199,4 @@ date,tqqq_weight,sqqq_weight,cash_weight,regime,ndx_close,ext_sma20,ext_sma250,r
 2026-11-23,0.0,0.015,0.985,DOWNTREND,26746.1,-3.68,-2.94,42.0,"MR Long 3 (SMA250 Bounce), Momentum Short 1 (Breakdown)","MR Long 3 (SMA250 Bounce): MR Long 3: near SMA250 but no reversal candle; Momentum Short 1 (Breakdown): Mom Short 1: below SMA250 (-2.9%), maintaining short"
 2026-11-24,0.0,0.09,0.91,DOWNTREND,26214.17,-5.0,-4.89,39.2,Momentum Short 1 (Breakdown),"Momentum Short 1 (Breakdown): Mom Short 1: below SMA250 (-4.9%), maintaining short"
 2026-11-25,0.0,0.09,0.91,STRONG DOWNTREND,26046.9,-4.96,-5.5,38.4,Momentum Short 1 (Breakdown),"Momentum Short 1 (Breakdown): Mom Short 1: below SMA250 (-5.5%), maintaining short"
+2026-11-27,0.0,0.09,0.91,DOWNTREND,26726.39,-2.0,-3.06,43.7,Momentum Short 1 (Breakdown),"Momentum Short 1 (Breakdown): Mom Short 1: below SMA250 (-3.1%), maintaining short"

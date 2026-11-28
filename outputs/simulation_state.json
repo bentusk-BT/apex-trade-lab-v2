@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-11-27T03:42:08.074755",
+  "last_updated": "2026-11-28T03:24:05.031051",
   "cash": 89937.1944486228,
   "starting_capital": 100000,
-  "total_equity": 101809.77251552243,
+  "total_equity": 101277.14123612369,
   "positions": {
     "TQQQ": {
       "shares": 54.62984729952484,
       "avg_price": 66.78942215019795,
-      "current_price": 45.279998779296875,
+      "current_price": 48.849998474121094,
       "entry_date": "2026-09-23"
     },
     "SQQQ": {
       "shares": 189.49473663326594,
       "avg_price": 47.484676127484676,
-      "current_price": 49.599998474121094,
+      "current_price": 45.7599983215332,
       "entry_date": "2026-11-19"
     }
   },
@@ -4349,6 +4349,25 @@
       "regime": "STRONG DOWNTREND",
       "active_strategies": "Momentum Short 1 (Breakdown)",
       "strategy_details": "Momentum Short 1 (Breakdown): Mom Short 1: below SMA250 (-5.5%), maintaining short"
+    },
+    {
+      "date": "2026-11-27",
+      "equity": 101277.14,
+      "cash": 89937.19,
+      "tqqq_value": 2668.67,
+      "sqqq_value": 8671.28,
+      "tqqq_alloc": 0,
+      "sqqq_alloc": 9.0,
+      "cash_alloc": 91.0,
+      "ndx_close": 26726.39,
+      "sma20": 27273.11,
+      "sma250": 27568.98,
+      "ext_sma20": -2.0,
+      "ext_sma250": -3.06,
+      "rsi": 43.7,
+      "regime": "DOWNTREND",
+      "active_strategies": "Momentum Short 1 (Breakdown)",
+      "strategy_details": "Momentum Short 1 (Breakdown): Mom Short 1: below SMA250 (-3.1%), maintaining short"
     }
   ],
   "trade_log": [
@@ -6475,19 +6494,6 @@
     }
   ],
   "signal_log": [
-    {
-      "date": "2026-02-11",
-      "tqqq_weight": 0.3675,
-      "sqqq_weight": 0,
-      "cash_weight": 0.6325,
-      "regime": "STRONG UPTREND",
-      "ndx_close": 25201.26,
-      "ext_sma20": -0.84,
-      "ext_sma250": 9.51,
-      "rsi": 47.0,
-      "active_strategies": "MR Long 1 (SMA20 Pullback)",
-      "strategy_details": "MR Long 1 (SMA20 Pullback): MR Long 1: pullback to SMA20, ext=-0.8%"
-    },
     {
       "date": "2026-02-12",
       "tqqq_weight": 0.08,
@@ -9074,6 +9080,19 @@
       "rsi": 38.4,
       "active_strategies": "Momentum Short 1 (Breakdown)",
       "strategy_details": "Momentum Short 1 (Breakdown): Mom Short 1: below SMA250 (-5.5%), maintaining short"
+    },
+    {
+      "date": "2026-11-27",
+      "tqqq_weight": 0,
+      "sqqq_weight": 0.09,
+      "cash_weight": 0.91,
+      "regime": "DOWNTREND",
+      "ndx_close": 26726.39,
+      "ext_sma20": -2.0,
+      "ext_sma250": -3.06,
+      "rsi": 43.7,
+      "active_strategies": "Momentum Short 1 (Breakdown)",
+      "strategy_details": "Momentum Short 1 (Breakdown): Mom Short 1: below SMA250 (-3.1%), maintaining short"
     }
   ],
   "regime_history": [
@@ -9196,6 +9215,12 @@
       "regime": "STRONG DOWNTREND",
       "ndx_close": 26046.9,
       "ext_sma250": -5.5
+    },
+    {
+      "date": "2026-11-27",
+      "regime": "DOWNTREND",
+      "ndx_close": 26726.39,
+      "ext_sma250": -3.06
     }
   ]
 }
